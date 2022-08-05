@@ -88,7 +88,7 @@ function App(props) {
       <Box>
         <List>
           <ListItem disablePadding>
-            <ListItemButton component={Link} to="/antigo">
+            <ListItemButton component={Link} to="/hinario/antigo">
               <ListItemIcon>
                 <EventBusyIcon></EventBusyIcon>
               </ListItemIcon>
@@ -98,7 +98,7 @@ function App(props) {
             </ListItemButton>
           </ListItem>
           <ListItem disablePadding>
-            <ListItemButton component={Link} to="/novo">
+            <ListItemButton component={Link} to="/hinario/novo">
               <ListItemIcon>
                 <EventAvailableIcon></EventAvailableIcon>
               </ListItemIcon>

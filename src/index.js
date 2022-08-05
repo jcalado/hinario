@@ -10,9 +10,9 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<App />} />
-        <Route path="/antigo" element={<App which={"old"} />} />
-        <Route path="/novo" element={<App which={"new"}/>} />
+        <Route path="/hinario" element={<App />} />
+        <Route path="/hinario/antigo" element={<App which={"old"} />} />
+        <Route path="/hinario/novo" element={<App which={"new"}/>} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
