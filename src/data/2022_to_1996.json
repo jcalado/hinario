@@ -1,0 +1,4202 @@
+[
+    {
+      "original_number": 1,
+      "title": "Santo, Santo, Santo!",
+      "notes": "Alterado",
+      "new_number": "18",
+      "new_title": "Santo! Santo! Santo!"
+    },
+    {
+      "original_number": 2,
+      "title": "Ó Adorai O Senhor",
+      "notes": "Alterado",
+      "new_number": "2",
+      "new_title": "Ó, Adorai o Senhor"
+    },
+    {
+      "original_number": 3,
+      "title": "O Deus Eterno Reina",
+      "notes": "",
+      "new_number": "3",
+      "new_title": "O Deus Eterno Reina"
+    },
+    {
+      "original_number": 4,
+      "title": "Louvor Ao Trino Deus",
+      "notes": "",
+      "new_number": "4",
+      "new_title": "Louvor ao Trino Deus"
+    },
+    {
+      "original_number": 5,
+      "title": "Jubilosos Te Adoramos",
+      "notes": "",
+      "new_number": "14",
+      "new_title": "Jubilosos Te Adoramos"
+    },
+    {
+      "original_number": 6,
+      "title": "Nós Te Adoramos",
+      "notes": "",
+      "new_number": "17",
+      "new_title": "Nós Te Adoramos"
+    },
+    {
+      "original_number": 7,
+      "title": "Sejas Louvado",
+      "notes": "",
+      "new_number": "7",
+      "new_title": "Sejas Louvado"
+    },
+    {
+      "original_number": 8,
+      "title": "Ó Deus De Amor",
+      "notes": "",
+      "new_number": "1",
+      "new_title": "Ó Deus de Amor"
+    },
+    {
+      "original_number": 9,
+      "title": "Santo, Santo, Pai Bondoso",
+      "notes": "Alterado",
+      "new_number": "587",
+      "new_title": "Santo, Santo"
+    },
+    {
+      "original_number": 10,
+      "title": "O Senhor Está Aqui",
+      "notes": "",
+      "new_number": "470",
+      "new_title": "O Senhor Está Aqui"
+    },
+    {
+      "original_number": 11,
+      "title": "Maior Que Tudo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 12,
+      "title": "Vinde, Povo Do Senhor",
+      "notes": "",
+      "new_number": "12",
+      "new_title": "Vinde, Povo do Senhor"
+    },
+    {
+      "original_number": 13,
+      "title": "Louvamos-te, Ó Deus",
+      "notes": "",
+      "new_number": "13",
+      "new_title": "Louvamos-Te, ó Deus"
+    },
+    {
+      "original_number": 14,
+      "title": "Louvemos O Rei",
+      "notes": "",
+      "new_number": "10",
+      "new_title": "Louvemos o Rei"
+    },
+    {
+      "original_number": 15,
+      "title": "Tu És Fiel, Senhor",
+      "notes": "",
+      "new_number": "35",
+      "new_title": "Tu És Fiel, Senhor"
+    },
+    {
+      "original_number": 16,
+      "title": "Sublime Amor",
+      "notes": "",
+      "new_number": "31",
+      "new_title": "Sublime Amor"
+    },
+    {
+      "original_number": 17,
+      "title": "Deus É Nosso Pai Amado",
+      "notes": "",
+      "new_number": "32",
+      "new_title": "Deus é nosso Pai Amado"
+    },
+    {
+      "original_number": 18,
+      "title": "Deus É Nosso Pai Celeste",
+      "notes": "Alterado",
+      "new_number": "40",
+      "new_title": "Filhos do Pai Celeste"
+    },
+    {
+      "original_number": 19,
+      "title": "A Deus Demos Glória",
+      "notes": "",
+      "new_number": "16",
+      "new_title": "A Deus Demos Glória"
+    },
+    {
+      "original_number": 20,
+      "title": "Grande É O Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 21,
+      "title": "Eu Te Amo, Ó Deus",
+      "notes": "",
+      "new_number": "579",
+      "new_title": "Eu Te Amo, ó Deus"
+    },
+    {
+      "original_number": 22,
+      "title": "A Ti Toda Glória",
+      "notes": "Alterado",
+      "new_number": "20",
+      "new_title": "A Ti, Toda Glória"
+    },
+    {
+      "original_number": 23,
+      "title": "Louvai A Cristo",
+      "notes": "",
+      "new_number": "76",
+      "new_title": "Louvai a Cristo"
+    },
+    {
+      "original_number": 24,
+      "title": "Rei Dos Reis",
+      "notes": "",
+      "new_number": "73",
+      "new_title": "Rei dos Reis"
+    },
+    {
+      "original_number": 25,
+      "title": "Jesus, Sempre Te Amo",
+      "notes": "",
+      "new_number": "290",
+      "new_title": "Jesus, Sempre Te Amo"
+    },
+    {
+      "original_number": 26,
+      "title": "Saudai O Nome De Jesus",
+      "notes": "Alterado",
+      "new_number": "72",
+      "new_title": "Saudai o Nome de Jesus (2)"
+    },
+    {
+      "original_number": 27,
+      "title": "Com Glória Coroai",
+      "notes": "Alterado",
+      "new_number": "71",
+      "new_title": "Saudai o Nome de Jesus (1)"
+    },
+    {
+      "original_number": 28,
+      "title": "Lindo És, Meu Mestre",
+      "notes": "",
+      "new_number": "85",
+      "new_title": "Lindo És, Meu Mestre"
+    },
+    {
+      "original_number": 29,
+      "title": "O Amor De Jesus",
+      "notes": "",
+      "new_number": "123",
+      "new_title": "O Amor de Jesus"
+    },
+    {
+      "original_number": 30,
+      "title": "Sempre Vencendo",
+      "notes": "",
+      "new_number": "74",
+      "new_title": "Sempre Vencendo"
+    },
+    {
+      "original_number": 31,
+      "title": "Jesus, Tu És A Minha Vida",
+      "notes": "",
+      "new_number": "478",
+      "new_title": "Jesus, Tu És a Minha Vida"
+    },
+    {
+      "original_number": 32,
+      "title": "Brilha Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 33,
+      "title": "A Esperança É Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 34,
+      "title": "Precioso Nome",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 35,
+      "title": "Ele É Exaltado",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 36,
+      "title": "Por Seu Imenso Amor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 37,
+      "title": "Cristo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 38,
+      "title": "A Ti Rendemos Glórias",
+      "notes": "",
+      "new_number": "8",
+      "new_title": "A Ti Rendemos Glórias"
+    },
+    {
+      "original_number": 39,
+      "title": "Glórias Ao Rei De Amor",
+      "notes": "",
+      "new_number": "83",
+      "new_title": "Glórias ao Rei de Amor"
+    },
+    {
+      "original_number": 40,
+      "title": "Concede-nos O Espírito",
+      "notes": "",
+      "new_number": "160",
+      "new_title": "Concede-nos o Espírito"
+    },
+    {
+      "original_number": 41,
+      "title": "Chuvas De Bênçãos",
+      "notes": "",
+      "new_number": "159",
+      "new_title": "Chuvas de Bênçãos"
+    },
+    {
+      "original_number": 42,
+      "title": "Vive Em Mim",
+      "notes": "",
+      "new_number": "155",
+      "new_title": "Vive em Mim"
+    },
+    {
+      "original_number": 43,
+      "title": "Vem, Santo Espírito, Agora",
+      "notes": "Alterado",
+      "new_number": "161",
+      "new_title": "Vem, Santo Espírito Agora"
+    },
+    {
+      "original_number": 44,
+      "title": "O Santo Espírito",
+      "notes": "Alterado",
+      "new_number": "157",
+      "new_title": "O Santo Espírito Desceu"
+    },
+    {
+      "original_number": 45,
+      "title": "Suave Espírito",
+      "notes": "",
+      "new_number": "158",
+      "new_title": "Suave Espírito"
+    },
+    {
+      "original_number": 46,
+      "title": "Dia de Chuva",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 47,
+      "title": "Cheios Do Espírito",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 48,
+      "title": "O Poder Do Espírito",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 49,
+      "title": "Que Firme Alicerce!",
+      "notes": "",
+      "new_number": "164",
+      "new_title": "Que Firme Alicerce!"
+    },
+    {
+      "original_number": 50,
+      "title": "Alicerce Seguro",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 51,
+      "title": "Dá-me A Bíblia",
+      "notes": "",
+      "new_number": "165",
+      "new_title": "Dá-me a Bíblia"
+    },
+    {
+      "original_number": 52,
+      "title": "Novas De Amor E Vida",
+      "notes": "",
+      "new_number": "166",
+      "new_title": "Novas de Amor e Vida"
+    },
+    {
+      "original_number": 53,
+      "title": "Que Diz A Bíblia?",
+      "notes": "",
+      "new_number": "162",
+      "new_title": "Que diz a Bíblia?"
+    },
+    {
+      "original_number": 54,
+      "title": "Unidos Pela Palavra",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 55,
+      "title": "Tua Palavra",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 56,
+      "title": "Nossa Inspiração",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 57,
+      "title": "A Palavra Do Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 58,
+      "title": "O Pão Da Vida",
+      "notes": "",
+      "new_number": "519",
+      "new_title": "O Pão da Vida"
+    },
+    {
+      "original_number": 59,
+      "title": "Por Belezas Naturais",
+      "notes": "",
+      "new_number": "6",
+      "new_title": "Por Belezas Naturais"
+    },
+    {
+      "original_number": 60,
+      "title": "Ao Deus De Abraão Louvai",
+      "notes": "",
+      "new_number": "11",
+      "new_title": "Ao Deus de Abraão Louvai"
+    },
+    {
+      "original_number": 61,
+      "title": "Vós, Criaturas Do Senhor",
+      "notes": "",
+      "new_number": "15",
+      "new_title": "Vós, Criaturas do Senhor"
+    },
+    {
+      "original_number": 62,
+      "title": "Quão Grande És Tu",
+      "notes": "",
+      "new_number": "34",
+      "new_title": "Quão Grande És Tu"
+    },
+    {
+      "original_number": 63,
+      "title": "O Mundo É De Meu Deus",
+      "notes": "Alterado",
+      "new_number": "36",
+      "new_title": "O Mundo é de Meus Deus"
+    },
+    {
+      "original_number": 64,
+      "title": "Vaso Novo",
+      "notes": "",
+      "new_number": "502",
+      "new_title": "Vaso Novo"
+    },
+    {
+      "original_number": 65,
+      "title": "Das Mãos Do Criador",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 66,
+      "title": "Não Há Outro Igual A Você",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 67,
+      "title": "Restaura Em Mim",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 68,
+      "title": "Restaura",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 69,
+      "title": "Obrigado, Bom Pai",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 70,
+      "title": "A Real Bandeira",
+      "notes": "Alterado",
+      "new_number": "347",
+      "new_title": "O Pendão Real"
+    },
+    {
+      "original_number": 71,
+      "title": "Vitória Em Cristo",
+      "notes": "",
+      "new_number": "437",
+      "new_title": "Vitória em Cristo"
+    },
+    {
+      "original_number": 72,
+      "title": "Firme Nas Promessas",
+      "notes": "",
+      "new_number": "274",
+      "new_title": "Firme nas Promessas"
+    },
+    {
+      "original_number": 73,
+      "title": "Castelo Forte",
+      "notes": "",
+      "new_number": "33",
+      "new_title": "Castelo Forte"
+    },
+    {
+      "original_number": 74,
+      "title": "Grande Comandante",
+      "notes": "",
+      "new_number": "342",
+      "new_title": "Grande Comandante"
+    },
+    {
+      "original_number": 75,
+      "title": "Fé É A Vitória",
+      "notes": "",
+      "new_number": "261",
+      "new_title": "Fé é a Vitória"
+    },
+    {
+      "original_number": 76,
+      "title": "Vencedor Cada Dia",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 77,
+      "title": "Ó Cristãos, Avante!",
+      "notes": "",
+      "new_number": "344",
+      "new_title": "Ó Cristãos, Avante!"
+    },
+    {
+      "original_number": 78,
+      "title": "Um Vencedor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 79,
+      "title": "Noite De Paz",
+      "notes": "",
+      "new_number": "42",
+      "new_title": "Noite de Paz"
+    },
+    {
+      "original_number": 80,
+      "title": "Soou Em Meio À Noite Azul",
+      "notes": "",
+      "new_number": "43",
+      "new_title": "Soou em Meio à Noite Azul"
+    },
+    {
+      "original_number": 81,
+      "title": "Surgem Anjos Proclamando",
+      "notes": "",
+      "new_number": "49",
+      "new_title": "Surgem Anjos Proclamando"
+    },
+    {
+      "original_number": 82,
+      "title": "Num Berço De Palha",
+      "notes": "",
+      "new_number": "50",
+      "new_title": "Num Berço de Palha"
+    },
+    {
+      "original_number": 83,
+      "title": "Canção Da Manjedoura",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 84,
+      "title": "Ó Vinde, Adoremos",
+      "notes": "Alterado",
+      "new_number": "48",
+      "new_title": "Ó, Vinde, Adoremos"
+    },
+    {
+      "original_number": 85,
+      "title": "Estrela De Luz",
+      "notes": "",
+      "new_number": "46",
+      "new_title": "Estrela de Luz"
+    },
+    {
+      "original_number": 86,
+      "title": "Nasce Jesus",
+      "notes": "",
+      "new_number": "45",
+      "new_title": "Nasce Jesus"
+    },
+    {
+      "original_number": 87,
+      "title": "Belém, Bendita És",
+      "notes": "",
+      "new_number": "47",
+      "new_title": "Belém, Bendita És"
+    },
+    {
+      "original_number": 88,
+      "title": "Cristo Nasceu",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 89,
+      "title": "Natal, Feliz Natal!",
+      "notes": "Alterado",
+      "new_number": "44",
+      "new_title": "Natal! Feliz Natal!"
+    },
+    {
+      "original_number": 90,
+      "title": "Glória Ao Rei Que Vos Nasceu",
+      "notes": "",
+      "new_number": "41",
+      "new_title": "Glória ao Rei Que Vos Nasceu"
+    },
+    {
+      "original_number": 91,
+      "title": "Ó Noite Santa",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 92,
+      "title": "Onde Estavam?",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 93,
+      "title": "Nasceu O Salvador",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 94,
+      "title": "Vestido Em Linho",
+      "notes": "",
+      "new_number": "52",
+      "new_title": "Vestido em Linho"
+    },
+    {
+      "original_number": 95,
+      "title": "Amor, Que Por Amor Desceste",
+      "notes": "Alterado",
+      "new_number": "120",
+      "new_title": "Amor Que por Amor Desceste"
+    },
+    {
+      "original_number": 96,
+      "title": "Foi Amor",
+      "notes": "",
+      "new_number": "115",
+      "new_title": "Foi Amor"
+    },
+    {
+      "original_number": 97,
+      "title": "Por Que Me Amou Assim?",
+      "notes": "",
+      "new_number": "98",
+      "new_title": "Por Que me Amou Assim?"
+    },
+    {
+      "original_number": 98,
+      "title": "Conta-me A História De Cristo",
+      "notes": "",
+      "new_number": "53",
+      "new_title": "Conta-me a História de Cristo"
+    },
+    {
+      "original_number": 99,
+      "title": "Conta-me A Velha História",
+      "notes": "",
+      "new_number": "58",
+      "new_title": "Conta-me a Velha História"
+    },
+    {
+      "original_number": 100,
+      "title": "A Doce História",
+      "notes": "",
+      "new_number": "54",
+      "new_title": "A Doce História"
+    },
+    {
+      "original_number": 101,
+      "title": "Seu Maravilhoso Olhar",
+      "notes": "",
+      "new_number": "190",
+      "new_title": "Seu Maravilhoso Olhar"
+    },
+    {
+      "original_number": 102,
+      "title": "Ó Vem, Emanuel!",
+      "notes": "",
+      "new_number": "140",
+      "new_title": "Ó Vem, Emanuel!"
+    },
+    {
+      "original_number": 103,
+      "title": "Rude Cruz",
+      "notes": "",
+      "new_number": "211",
+      "new_title": "Rude Cruz"
+    },
+    {
+      "original_number": 104,
+      "title": "Na Senda Do Calvário",
+      "notes": "",
+      "new_number": "66",
+      "new_title": "Na Senda do Calvário"
+    },
+    {
+      "original_number": 105,
+      "title": "Oh, Fronte Ensanguentada!",
+      "notes": "Alterado",
+      "new_number": "65",
+      "new_title": "Oh! Fronte Ensangüentada!"
+    },
+    {
+      "original_number": 106,
+      "title": "Cristo No Horto",
+      "notes": "",
+      "new_number": "64",
+      "new_title": "Cristo no Horto"
+    },
+    {
+      "original_number": 107,
+      "title": "Na Cruz Morri Por Ti",
+      "notes": "",
+      "new_number": "172",
+      "new_title": "Na Cruz Morri por Ti"
+    },
+    {
+      "original_number": 108,
+      "title": "Foi Por Você Também",
+      "notes": "",
+      "new_number": "60",
+      "new_title": "Foi por Você Também"
+    },
+    {
+      "original_number": 109,
+      "title": "Houve Alguém",
+      "notes": "",
+      "new_number": "63",
+      "new_title": "Houve Alguém"
+    },
+    {
+      "original_number": 110,
+      "title": "Monte Do Calvário",
+      "notes": "",
+      "new_number": "62",
+      "new_title": "Monte do Calvário"
+    },
+    {
+      "original_number": 111,
+      "title": "Ao Ver A Cruz",
+      "notes": "",
+      "new_number": "61",
+      "new_title": "Ao Ver a Cruz"
+    },
+    {
+      "original_number": 112,
+      "title": "Cordeiro De Deus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 113,
+      "title": "‘Stavas Lá?",
+      "notes": "",
+      "new_number": "59",
+      "new_title": "‘Stavas Lá?"
+    },
+    {
+      "original_number": 114,
+      "title": "Cristo Já Ressuscitou",
+      "notes": "",
+      "new_number": "69",
+      "new_title": "Cristo Já Ressuscitou"
+    },
+    {
+      "original_number": 115,
+      "title": "Preciosa Graça",
+      "notes": "Alterado",
+      "new_number": "208",
+      "new_title": "Graça Excelsa"
+    },
+    {
+      "original_number": 116,
+      "title": "Maravilhosa Graça",
+      "notes": "",
+      "new_number": "204",
+      "new_title": "Maravilhosa Graça"
+    },
+    {
+      "original_number": 117,
+      "title": "Infinita Graça",
+      "notes": "",
+      "new_number": "192",
+      "new_title": "Infinita Graça"
+    },
+    {
+      "original_number": 118,
+      "title": "Imenso Amor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 119,
+      "title": "Graça De Deus",
+      "notes": "",
+      "new_number": "213",
+      "new_title": "Graça de Deus"
+    },
+    {
+      "original_number": 120,
+      "title": "Graça",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 121,
+      "title": "Por Um Pecador Qual Eu",
+      "notes": "",
+      "new_number": "536",
+      "new_title": "Por um Pecador Qual Eu"
+    },
+    {
+      "original_number": 122,
+      "title": "Só Um Passo",
+      "notes": "",
+      "new_number": "170",
+      "new_title": "Só um Passo"
+    },
+    {
+      "original_number": 123,
+      "title": "Seu Sangue Tem Poder",
+      "notes": "",
+      "new_number": "206",
+      "new_title": "Seu Sangue Tem Poder"
+    },
+    {
+      "original_number": 124,
+      "title": "Deixa A Luz Do Céu Entrar",
+      "notes": "",
+      "new_number": "184",
+      "new_title": "Deixa a Luz do Céu Entrar"
+    },
+    {
+      "original_number": 125,
+      "title": "A Terna Voz Do Salvador",
+      "notes": "",
+      "new_number": "105",
+      "new_title": "A Terna Voz do Salvador"
+    },
+    {
+      "original_number": 126,
+      "title": "Foge Para O Monte",
+      "notes": "",
+      "new_number": "180",
+      "new_title": "Foge Para o Monte"
+    },
+    {
+      "original_number": 127,
+      "title": "Vida Em Olhar",
+      "notes": "",
+      "new_number": "207",
+      "new_title": "Vida em Olhar"
+    },
+    {
+      "original_number": 128,
+      "title": "Se Tu Buscares A Jesus",
+      "notes": "",
+      "new_number": "117",
+      "new_title": "Se Tu Buscares a Jesus"
+    },
+    {
+      "original_number": 129,
+      "title": "Deixa Entrar O Rei Da Glória",
+      "notes": "",
+      "new_number": "169",
+      "new_title": "Deixa Entrar o Rei da Glória"
+    },
+    {
+      "original_number": 130,
+      "title": "Jesus Está Esperando",
+      "notes": "",
+      "new_number": "173",
+      "new_title": "Jesus Está Esperando"
+    },
+    {
+      "original_number": 131,
+      "title": "Manso E Suave",
+      "notes": "",
+      "new_number": "175",
+      "new_title": "Manso e Suave"
+    },
+    {
+      "original_number": 132,
+      "title": "Pra Quem Nada Tem",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 133,
+      "title": "Ó Vem, Aflito Coração",
+      "notes": "Alterado",
+      "new_number": "177",
+      "new_title": "Ó, Vem, Aflito Coração"
+    },
+    {
+      "original_number": 134,
+      "title": "Junto À Cruz",
+      "notes": "",
+      "new_number": "189",
+      "new_title": "Junto à Cruz"
+    },
+    {
+      "original_number": 135,
+      "title": "Vinde Às Águas",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 136,
+      "title": "Quero Estar Ao Pé Da Cruz",
+      "notes": "",
+      "new_number": "191",
+      "new_title": "Quero Estar ao Pé da Cruz"
+    },
+    {
+      "original_number": 137,
+      "title": "Pai, Eu Me Achego A Ti",
+      "notes": "",
+      "new_number": "286",
+      "new_title": "Pai, Eu me Achego a Ti"
+    },
+    {
+      "original_number": 138,
+      "title": "Tal Qual Estou",
+      "notes": "",
+      "new_number": "278",
+      "new_title": "Tal Qual Estou"
+    },
+    {
+      "original_number": 139,
+      "title": "Sou De Jesus Agora",
+      "notes": "",
+      "new_number": "94",
+      "new_title": "Sou de Jesus Agora"
+    },
+    {
+      "original_number": 140,
+      "title": "Ao Pé Da Cruz De Cristo",
+      "notes": "",
+      "new_number": "416",
+      "new_title": "Ao Pé da Cruz de Cristo"
+    },
+    {
+      "original_number": 141,
+      "title": "Cristo Tocou-me",
+      "notes": "",
+      "new_number": "197",
+      "new_title": "Cristo Tocou-me"
+    },
+    {
+      "original_number": 142,
+      "title": "Perdão, Poder E Paz",
+      "notes": "",
+      "new_number": "210",
+      "new_title": "Perdão, Poder e Paz"
+    },
+    {
+      "original_number": 143,
+      "title": "Ao Olhar Pra Cruz",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 144,
+      "title": "Foi Na Cruz",
+      "notes": "Alterado",
+      "new_number": "540",
+      "new_title": "A Revelação da Cruz"
+    },
+    {
+      "original_number": 145,
+      "title": "É Jesus O Salvador",
+      "notes": "",
+      "new_number": "77",
+      "new_title": "É Jesus o Salvador"
+    },
+    {
+      "original_number": 146,
+      "title": "Eu Não Sou Mais Eu",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 147,
+      "title": "Jesus Me Transformou",
+      "notes": "",
+      "new_number": "109",
+      "new_title": "Jesus me Transformou"
+    },
+    {
+      "original_number": 148,
+      "title": "Jesus Achou-me",
+      "notes": "",
+      "new_number": "223",
+      "new_title": "Jesus Achou-me"
+    },
+    {
+      "original_number": 149,
+      "title": "Pedras",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 150,
+      "title": "Ó Jesus, Habita Em Mim",
+      "notes": "",
+      "new_number": "203",
+      "new_title": "Ó Jesus, Habita em Mim"
+    },
+    {
+      "original_number": 151,
+      "title": "Amor Glorioso",
+      "notes": "",
+      "new_number": "113",
+      "new_title": "Amor Glorioso"
+    },
+    {
+      "original_number": 152,
+      "title": "A Voz De Jesus",
+      "notes": "",
+      "new_number": "90",
+      "new_title": "A Voz de Jesus"
+    },
+    {
+      "original_number": 153,
+      "title": "O Que Penso De Meu Mestre",
+      "notes": "",
+      "new_number": "122",
+      "new_title": "O Que Penso de Meu Mestre"
+    },
+    {
+      "original_number": 154,
+      "title": "Alvo Mais Que A Neve",
+      "notes": "",
+      "new_number": "205",
+      "new_title": "Alvo Mais que a Neve"
+    },
+    {
+      "original_number": 155,
+      "title": "Meu Cálice Transborda",
+      "notes": "",
+      "new_number": "201",
+      "new_title": "Meu Cálice Transborda"
+    },
+    {
+      "original_number": 156,
+      "title": "Remido",
+      "notes": "",
+      "new_number": "215",
+      "new_title": "Remido"
+    },
+    {
+      "original_number": 157,
+      "title": "Jesus Me Remiu",
+      "notes": "",
+      "new_number": "209",
+      "new_title": "Jesus me Remiu"
+    },
+    {
+      "original_number": 158,
+      "title": "Creio Em Milagres",
+      "notes": "",
+      "new_number": "193",
+      "new_title": "Creio em Milagres"
+    },
+    {
+      "original_number": 159,
+      "title": "Um Novo Nome Lá Na Glória",
+      "notes": "",
+      "new_number": "212",
+      "new_title": "Um Novo Nome Lá na Glória"
+    },
+    {
+      "original_number": 160,
+      "title": "Crescendo Em Graça",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 161,
+      "title": "Salva-me Também",
+      "notes": "",
+      "new_number": "399",
+      "new_title": "Salva-me Também"
+    },
+    {
+      "original_number": 162,
+      "title": "Sou De Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 163,
+      "title": "Para O Céu Por Jesus Irei",
+      "notes": "",
+      "new_number": "535",
+      "new_title": "Para o Céu por Jesus Irei"
+    },
+    {
+      "original_number": 164,
+      "title": "Meu Nome Em Suas Mãos",
+      "notes": "",
+      "new_number": "124",
+      "new_title": "Meu Nome em Suas Mãos"
+    },
+    {
+      "original_number": 165,
+      "title": "Hoje Sou Feliz",
+      "notes": "",
+      "new_number": "235",
+      "new_title": "Hoje Sou Feliz"
+    },
+    {
+      "original_number": 166,
+      "title": "Caminhando",
+      "notes": "",
+      "new_number": "490",
+      "new_title": "Caminhando"
+    },
+    {
+      "original_number": 167,
+      "title": "Tão Triste Eu Andava",
+      "notes": "Alterado",
+      "new_number": "221",
+      "new_title": "Mui Triste Eu Andava"
+    },
+    {
+      "original_number": 168,
+      "title": "Eu Achei",
+      "notes": "",
+      "new_number": "476",
+      "new_title": "Eu Achei"
+    },
+    {
+      "original_number": 169,
+      "title": "Salvo Em Jesus",
+      "notes": "",
+      "new_number": "534",
+      "new_title": "Salvo em Jesus"
+    },
+    {
+      "original_number": 170,
+      "title": "Oh, Que Belo Hino Deus Me Deu",
+      "notes": "Alterado",
+      "new_number": "222",
+      "new_title": "Oh! Que Belo Hino Deus me Deu"
+    },
+    {
+      "original_number": 171,
+      "title": "Com Cristo No Meu Coração",
+      "notes": "",
+      "new_number": "233",
+      "new_title": "Com Cristo no Meu Coração"
+    },
+    {
+      "original_number": 172,
+      "title": "Ando Sempre Alegre",
+      "notes": "",
+      "new_number": "217",
+      "new_title": "Ando Sempre Alegre"
+    },
+    {
+      "original_number": 173,
+      "title": "Que Prazer É Ser De Cristo",
+      "notes": "",
+      "new_number": "271",
+      "new_title": "Que Prazer é Ser de Cristo"
+    },
+    {
+      "original_number": 174,
+      "title": "Que Consolo E Paz!",
+      "notes": "Alterado",
+      "new_number": "349",
+      "new_title": "Consolação"
+    },
+    {
+      "original_number": 175,
+      "title": "De Ti Careço, Ó Deus",
+      "notes": "",
+      "new_number": "394",
+      "new_title": "De Ti Careço, ó Deus"
+    },
+    {
+      "original_number": 176,
+      "title": "Nunca Desanimes",
+      "notes": "",
+      "new_number": "252",
+      "new_title": "Nunca Desanimes"
+    },
+    {
+      "original_number": 177,
+      "title": "Conduze-me, Meu Mestre",
+      "notes": "",
+      "new_number": "356",
+      "new_title": "Conduze-me, Meu Mestre"
+    },
+    {
+      "original_number": 178,
+      "title": "Deus Cuidará De Ti",
+      "notes": "",
+      "new_number": "373",
+      "new_title": "Deus Cuidará de Ti"
+    },
+    {
+      "original_number": 179,
+      "title": "Eu Sei Em Quem Eu Creio",
+      "notes": "Alterado",
+      "new_number": "259",
+      "new_title": "Eu Sei em Quem Tenho Crido"
+    },
+    {
+      "original_number": 180,
+      "title": "Nunca Te Deixarei",
+      "notes": "",
+      "new_number": "386",
+      "new_title": "Nunca te Deixarei"
+    },
+    {
+      "original_number": 181,
+      "title": "Cuidará De Mim Também",
+      "notes": "",
+      "new_number": "371",
+      "new_title": "Cuidará de Mim Também"
+    },
+    {
+      "original_number": 182,
+      "title": "Eu Pertenço Ao Meu Rei",
+      "notes": "",
+      "new_number": "350",
+      "new_title": "Eu Pertenço ao Meu Rei"
+    },
+    {
+      "original_number": 183,
+      "title": "Oh, Não Temas, Sou Contigo",
+      "notes": "",
+      "new_number": "355",
+      "new_title": "Oh, Não Temas, Sou Contigo"
+    },
+    {
+      "original_number": 184,
+      "title": "Quero Ter Jesus Comigo",
+      "notes": "",
+      "new_number": "400",
+      "new_title": "Quero Ter Jesus Comigo"
+    },
+    {
+      "original_number": 185,
+      "title": "Cada Momento",
+      "notes": "",
+      "new_number": "370",
+      "new_title": "Cada Momento"
+    },
+    {
+      "original_number": 186,
+      "title": "Ó Mestre, O Mar Se Revolta",
+      "notes": "",
+      "new_number": "379",
+      "new_title": "Ó Mestre, o Mar se Revolta"
+    },
+    {
+      "original_number": 187,
+      "title": "Refúgio Em Temporal",
+      "notes": "",
+      "new_number": "377",
+      "new_title": "Refúgio em Temporal"
+    },
+    {
+      "original_number": 188,
+      "title": "Minha Esperança",
+      "notes": "",
+      "new_number": "253",
+      "new_title": "Minha Esperança"
+    },
+    {
+      "original_number": 189,
+      "title": "Deus Sabe, Deus Ouve, Deus Vê",
+      "notes": "",
+      "new_number": "500",
+      "new_title": "Deus Sabe, Deus Ouve, Deus Vê"
+    },
+    {
+      "original_number": 190,
+      "title": "Pertenço A Cristo",
+      "notes": "",
+      "new_number": "285",
+      "new_title": "Pertenço a Cristo"
+    },
+    {
+      "original_number": 191,
+      "title": "Olha Com Fé Para Cima",
+      "notes": "",
+      "new_number": "272",
+      "new_title": "Olha com Fé Para Cima"
+    },
+    {
+      "original_number": 192,
+      "title": "Brilho Celeste",
+      "notes": "",
+      "new_number": "338",
+      "new_title": "Brilho Celeste"
+    },
+    {
+      "original_number": 193,
+      "title": "Sob Suas Asas",
+      "notes": "",
+      "new_number": "357",
+      "new_title": "Sob Suas Asas"
+    },
+    {
+      "original_number": 194,
+      "title": "Tem Fé Em Deus",
+      "notes": "",
+      "new_number": "251",
+      "new_title": "Tem Fé em Deus"
+    },
+    {
+      "original_number": 195,
+      "title": "Minha Fé Bem Segura Está",
+      "notes": "",
+      "new_number": "262",
+      "new_title": "Minha Fé Bem Segura Está"
+    },
+    {
+      "original_number": 196,
+      "title": "Ao Jesus Me Tomar A Mão",
+      "notes": "Alterado",
+      "new_number": "375",
+      "new_title": "Ao Tomar Minha Frágil Mão"
+    },
+    {
+      "original_number": 197,
+      "title": "Sou Feliz Com Jesus",
+      "notes": "",
+      "new_number": "230",
+      "new_title": "Sou Feliz com Jesus"
+    },
+    {
+      "original_number": 198,
+      "title": "Deus Vos Guarde",
+      "notes": "",
+      "new_number": "387",
+      "new_title": "Deus vos Guarde"
+    },
+    {
+      "original_number": 199,
+      "title": "Ao Passares Pelas Águas",
+      "notes": "",
+      "new_number": "367",
+      "new_title": "Ao Passares Pelas Águas"
+    },
+    {
+      "original_number": 200,
+      "title": "Nunca Me Deixar",
+      "notes": "",
+      "new_number": "351",
+      "new_title": "Nunca me Deixar"
+    },
+    {
+      "original_number": 201,
+      "title": "Dia A Dia",
+      "notes": "",
+      "new_number": "359",
+      "new_title": "Dia a Dia"
+    },
+    {
+      "original_number": 202,
+      "title": "Não Ando Só",
+      "notes": "",
+      "new_number": "382",
+      "new_title": "Não Ando Só"
+    },
+    {
+      "original_number": 203,
+      "title": "Abrigo Na Rocha",
+      "notes": "",
+      "new_number": "374",
+      "new_title": "Abrigo na Rocha"
+    },
+    {
+      "original_number": 204,
+      "title": "Meu Divino Protetor",
+      "notes": "",
+      "new_number": "97",
+      "new_title": "Meu Divino Protetor"
+    },
+    {
+      "original_number": 205,
+      "title": "Ergo Os Meus Olhos",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 206,
+      "title": "Fixa Teus Olhos No Mestre",
+      "notes": "",
+      "new_number": "360",
+      "new_title": "Fixa Teus Olhos no Mestre"
+    },
+    {
+      "original_number": 207,
+      "title": "Confiei No Meu Senhor",
+      "notes": "Alterado",
+      "new_number": "471",
+      "new_title": "Confiei no Meus Senhor"
+    },
+    {
+      "original_number": 208,
+      "title": "Confia Em Deus",
+      "notes": "",
+      "new_number": "273",
+      "new_title": "Confia em Deus"
+    },
+    {
+      "original_number": 209,
+      "title": "Todas As Coisas Contribuem",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 210,
+      "title": "Sempre Confiante",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 211,
+      "title": "Jesus Meu Guia É",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 212,
+      "title": "Bendita Segurança",
+      "notes": "",
+      "new_number": "240",
+      "new_title": "Bendita Segurança"
+    },
+    {
+      "original_number": 213,
+      "title": "Não Me Esqueci De Ti",
+      "notes": "",
+      "new_number": "499",
+      "new_title": "Não Me Esqueci de Ti"
+    },
+    {
+      "original_number": 214,
+      "title": "Não Há O Que Temer",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 215,
+      "title": "A Única Saída",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 216,
+      "title": "Pode Cair o Mundo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 217,
+      "title": "Fé Dos Nossos Pais",
+      "notes": "",
+      "new_number": "258",
+      "new_title": "Fé dos Nossos Pais"
+    },
+    {
+      "original_number": 218,
+      "title": "Ouve-nos, Pastor Divino",
+      "notes": "",
+      "new_number": "396",
+      "new_title": "Ouve-nos, Pastor Divino"
+    },
+    {
+      "original_number": 219,
+      "title": "Da Igreja O Fundamento",
+      "notes": "",
+      "new_number": "504",
+      "new_title": "Da Igreja o Fundamento"
+    },
+    {
+      "original_number": 220,
+      "title": "Fortalece Tua Igreja",
+      "notes": "",
+      "new_number": "506",
+      "new_title": "Fortalece Tua Igreja"
+    },
+    {
+      "original_number": 221,
+      "title": "Somos Igreja",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 222,
+      "title": "Somos Um Pequeno Povo",
+      "notes": "",
+      "new_number": "505",
+      "new_title": "Somos um Pequeno Povo"
+    },
+    {
+      "original_number": 223,
+      "title": "Há Um Dever",
+      "notes": "",
+      "new_number": "333",
+      "new_title": "Há um Dever"
+    },
+    {
+      "original_number": 224,
+      "title": "Mensagem Ao Mundo",
+      "notes": "",
+      "new_number": "327",
+      "new_title": "Mensagem ao Mundo"
+    },
+    {
+      "original_number": 225,
+      "title": "Dai-nos Luz",
+      "notes": "",
+      "new_number": "311",
+      "new_title": "Dai-nos Luz"
+    },
+    {
+      "original_number": 226,
+      "title": "Cristo Nos Conclama",
+      "notes": "",
+      "new_number": "307",
+      "new_title": "Cristo nos Conclama"
+    },
+    {
+      "original_number": 227,
+      "title": "Se Cristo For Comigo",
+      "notes": "",
+      "new_number": "303",
+      "new_title": "Se Cristo For Comigo"
+    },
+    {
+      "original_number": 228,
+      "title": "Onde Quer Que Seja",
+      "notes": "",
+      "new_number": "292",
+      "new_title": "Onde Quer Que Seja"
+    },
+    {
+      "original_number": 229,
+      "title": "Trabalho Cristão",
+      "notes": "",
+      "new_number": "329",
+      "new_title": "Trabalho Cristão"
+    },
+    {
+      "original_number": 230,
+      "title": "Ao Mundo Vou Contar",
+      "notes": "",
+      "new_number": "321",
+      "new_title": "Ao Mundo Vou Contar"
+    },
+    {
+      "original_number": 231,
+      "title": "Trabalhar E Orar",
+      "notes": "",
+      "new_number": "330",
+      "new_title": "Trabalhar e Orar"
+    },
+    {
+      "original_number": 232,
+      "title": "Jesus Precisa De Ti",
+      "notes": "",
+      "new_number": "482",
+      "new_title": "Jesus Precisa de Ti"
+    },
+    {
+      "original_number": 233,
+      "title": "Brilha Por Cristo Em Teu Viver",
+      "notes": "Alterado",
+      "new_number": "308",
+      "new_title": "Brilha no Meio do Teu Viver"
+    },
+    {
+      "original_number": 234,
+      "title": "Hoje Ajuda A Alguém",
+      "notes": "",
+      "new_number": "315",
+      "new_title": "Hoje Ajuda a Alguém"
+    },
+    {
+      "original_number": 235,
+      "title": "Somos Teus, Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 236,
+      "title": "Transbordando Em Amor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 237,
+      "title": "A Colheita",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 238,
+      "title": "Oração Pela Missão",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 239,
+      "title": "Geração Esperança",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 240,
+      "title": "Brilhar Por Ti",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 241,
+      "title": "A Todo Semelhante Meu",
+      "notes": "",
+      "new_number": "320",
+      "new_title": "A Todo Semelhante Meu"
+    },
+    {
+      "original_number": 242,
+      "title": "Benditos Laços",
+      "notes": "",
+      "new_number": "603",
+      "new_title": "Benditos Laços"
+    },
+    {
+      "original_number": 243,
+      "title": "Jesus, Pastor Amado",
+      "notes": "",
+      "new_number": "395",
+      "new_title": "Jesus, Pastor Amado"
+    },
+    {
+      "original_number": 244,
+      "title": "Ó Vem À Igreja Comigo",
+      "notes": "Alterado",
+      "new_number": "507",
+      "new_title": "Ó, Vem à Igreja Comigo"
+    },
+    {
+      "original_number": 245,
+      "title": "Lado A Lado",
+      "notes": "",
+      "new_number": "492",
+      "new_title": "Lado a Lado"
+    },
+    {
+      "original_number": 246,
+      "title": "Em Família",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 247,
+      "title": "Unidos Em Cristo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 248,
+      "title": "Encontros",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 249,
+      "title": "Oh, Que Belos Hinos!",
+      "notes": "Alterado",
+      "new_number": "511",
+      "new_title": "Oh! Que Belos Hinos"
+    },
+    {
+      "original_number": 250,
+      "title": "A Jesus Seguir Eu Quero",
+      "notes": "",
+      "new_number": "518",
+      "new_title": "A Jesus Seguir Eu Quero"
+    },
+    {
+      "original_number": 251,
+      "title": "Meu Jesus Está Chamando",
+      "notes": "",
+      "new_number": "510",
+      "new_title": "Meu Jesus Está Chamando"
+    },
+    {
+      "original_number": 252,
+      "title": "Volto Ao Lar",
+      "notes": "",
+      "new_number": "517",
+      "new_title": "Volto ao Lar"
+    },
+    {
+      "original_number": 253,
+      "title": "Importa Renascer",
+      "notes": "",
+      "new_number": "515",
+      "new_title": "Importa Renascer"
+    },
+    {
+      "original_number": 254,
+      "title": "Agora Posso Ver",
+      "notes": "",
+      "new_number": "516",
+      "new_title": "Agora Posso Ver"
+    },
+    {
+      "original_number": 255,
+      "title": "As Águas Batismais",
+      "notes": "",
+      "new_number": "513",
+      "new_title": "As Águas Batismais"
+    },
+    {
+      "original_number": 256,
+      "title": "A Ceia Do Senhor",
+      "notes": "",
+      "new_number": "520",
+      "new_title": "A Ceia do Senhor"
+    },
+    {
+      "original_number": 257,
+      "title": "Senhor, Tu Nos Convidas",
+      "notes": "",
+      "new_number": "521",
+      "new_title": "Senhor, Tu nos Convidas"
+    },
+    {
+      "original_number": 258,
+      "title": "A Última Ceia",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 259,
+      "title": "Em Memória De Ti",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 260,
+      "title": "Em Memória De Mim",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 261,
+      "title": "Quem Se Dispõe A Ir?",
+      "notes": "",
+      "new_number": "524",
+      "new_title": "Quem se Dispõe a Ir?"
+    },
+    {
+      "original_number": 262,
+      "title": "Irei Aonde Jesus Mandar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 263,
+      "title": "Mãos",
+      "notes": "",
+      "new_number": "324",
+      "new_title": "Mãos"
+    },
+    {
+      "original_number": 264,
+      "title": "Envio A Ti",
+      "notes": "",
+      "new_number": "523",
+      "new_title": "Envio a Ti"
+    },
+    {
+      "original_number": 265,
+      "title": "Faz-me Um Servo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 266,
+      "title": "No Serviço Do Meu Rei",
+      "notes": "",
+      "new_number": "322",
+      "new_title": "No Serviço do Meu Rei"
+    },
+    {
+      "original_number": 267,
+      "title": "As Searas Maduras",
+      "notes": "",
+      "new_number": "331",
+      "new_title": "As Searas Maduras"
+    },
+    {
+      "original_number": 268,
+      "title": "Compensa Servir A Jesus",
+      "notes": "",
+      "new_number": "332",
+      "new_title": "Compensa Servir a Jesus"
+    },
+    {
+      "original_number": 269,
+      "title": "Sal Da Terra",
+      "notes": "",
+      "new_number": "486",
+      "new_title": "Sal da Terra"
+    },
+    {
+      "original_number": 270,
+      "title": "Vaso De Bênção",
+      "notes": "",
+      "new_number": "326",
+      "new_title": "Vaso de Bênção"
+    },
+    {
+      "original_number": 271,
+      "title": "Vaso De Honra",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 272,
+      "title": "Através De Nós",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 273,
+      "title": "A Escola Sabatina",
+      "notes": "",
+      "new_number": "509",
+      "new_title": "A Escola Sabatina"
+    },
+    {
+      "original_number": 274,
+      "title": "O Encontro",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 275,
+      "title": "Hino Dos Aventureiros",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 276,
+      "title": "Hino Dos Desbravadores",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 277,
+      "title": "Bem-aventurança",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 278,
+      "title": "A Voz De Deus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 279,
+      "title": "A Verdade Brilhará",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 280,
+      "title": "O Espírito De Profecia",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 281,
+      "title": "Filhos Da Promessa",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 282,
+      "title": "Em Sua Presença",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 283,
+      "title": "Crer E Observar",
+      "notes": "",
+      "new_number": "301",
+      "new_title": "Crer e Observar"
+    },
+    {
+      "original_number": 284,
+      "title": "Obedecer É Melhor",
+      "notes": "",
+      "new_number": "525",
+      "new_title": "Obedecer é Melhor"
+    },
+    {
+      "original_number": 285,
+      "title": "Eu Amo A Tua Lei",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 286,
+      "title": "Tua Lei",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 287,
+      "title": "A Lei De Deus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 288,
+      "title": "Fiel A Toda Prova",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 289,
+      "title": "A Tua Lei",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 290,
+      "title": "Do Santo Sábado És Senhor",
+      "notes": "",
+      "new_number": "531",
+      "new_title": "Do Santo Sábado És Senhor"
+    },
+    {
+      "original_number": 291,
+      "title": "Sábado Do Meu Senhor",
+      "notes": "",
+      "new_number": "527",
+      "new_title": "Sábado do Meu Senhor"
+    },
+    {
+      "original_number": 292,
+      "title": "Sábado",
+      "notes": "",
+      "new_number": "528",
+      "new_title": "Sábado"
+    },
+    {
+      "original_number": 293,
+      "title": "O Sábado Chegou",
+      "notes": "",
+      "new_number": "530",
+      "new_title": "O Sábado Chegou"
+    },
+    {
+      "original_number": 294,
+      "title": "Lembre-se Do Sábado",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 295,
+      "title": "Sábado Bendito",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 296,
+      "title": "Bem-vindo O Sábado",
+      "notes": "",
+      "new_number": "532",
+      "new_title": "Bem-vindo o Sábado"
+    },
+    {
+      "original_number": 297,
+      "title": "Dia De Esperança",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 298,
+      "title": "Deus Fez O Sábado Para Mim",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 299,
+      "title": "Dia Santo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 300,
+      "title": "Tempo De Ser Santo",
+      "notes": "",
+      "new_number": "282",
+      "new_title": "Tempo de Ser Santo"
+    },
+    {
+      "original_number": 301,
+      "title": "Toma, Ó Deus, Meu Coração",
+      "notes": "",
+      "new_number": "298",
+      "new_title": "Toma, ó Deus, Meu Coração"
+    },
+    {
+      "original_number": 302,
+      "title": "Tudo Entregarei",
+      "notes": "",
+      "new_number": "295",
+      "new_title": "Tudo Entregarei"
+    },
+    {
+      "original_number": 303,
+      "title": "Minha Entrega",
+      "notes": "",
+      "new_number": "287",
+      "new_title": "Minha Entrega"
+    },
+    {
+      "original_number": 304,
+      "title": "Que Te Darei, Meu Mestre?",
+      "notes": "",
+      "new_number": "243",
+      "new_title": "Que Te Darei, Meu Mestre?"
+    },
+    {
+      "original_number": 305,
+      "title": "Sobre O Altar",
+      "notes": "",
+      "new_number": "317",
+      "new_title": "Sobre o Altar"
+    },
+    {
+      "original_number": 306,
+      "title": "Eis-nos Prontos",
+      "notes": "",
+      "new_number": "299",
+      "new_title": "Eis-nos Prontos"
+    },
+    {
+      "original_number": 307,
+      "title": "Conta As Bênçãos",
+      "notes": "",
+      "new_number": "244",
+      "new_title": "Conta as Bênçãos"
+    },
+    {
+      "original_number": 308,
+      "title": "Faze Como Daniel",
+      "notes": "",
+      "new_number": "484",
+      "new_title": "Faze Como Daniel"
+    },
+    {
+      "original_number": 309,
+      "title": "Em Tuas Mãos",
+      "notes": "",
+      "new_number": "480",
+      "new_title": "Em Tuas Mãos"
+    },
+    {
+      "original_number": 310,
+      "title": "Entrega",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 311,
+      "title": "Inteiramente Fiel",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 312,
+      "title": "Nas Tuas Mãos",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 313,
+      "title": "Tudo Para Deus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 314,
+      "title": "Se Ele Não For O Primeiro",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 315,
+      "title": "A Cristo Eu Amo",
+      "notes": "",
+      "new_number": "96",
+      "new_title": "A Cristo Eu Amo"
+    },
+    {
+      "original_number": 316,
+      "title": "Achei Um Grande Amigo",
+      "notes": "",
+      "new_number": "88",
+      "new_title": "Achei um Grande Amigo"
+    },
+    {
+      "original_number": 317,
+      "title": "Amigo Tão Precioso",
+      "notes": "Alterado",
+      "new_number": "106",
+      "new_title": "Amigo Mui Precioso"
+    },
+    {
+      "original_number": 318,
+      "title": "Cantarei De Meu Jesus",
+      "notes": "",
+      "new_number": "250",
+      "new_title": "Cantarei de Meu Jesus"
+    },
+    {
+      "original_number": 319,
+      "title": "Cristo É Tudo Para Mim",
+      "notes": "",
+      "new_number": "95",
+      "new_title": "Cristo é Tudo Para Mim"
+    },
+    {
+      "original_number": 320,
+      "title": "Eu Te Amo, Meu Mestre",
+      "notes": "",
+      "new_number": "92",
+      "new_title": "Eu Te Amo, Meu Mestre"
+    },
+    {
+      "original_number": 321,
+      "title": "Jesus É Melhor",
+      "notes": "",
+      "new_number": "91",
+      "new_title": "Jesus é Melhor"
+    },
+    {
+      "original_number": 322,
+      "title": "Jesus Me Guia",
+      "notes": "",
+      "new_number": "384",
+      "new_title": "Jesus me Guia"
+    },
+    {
+      "original_number": 323,
+      "title": "Há Um Amigo",
+      "notes": "",
+      "new_number": "100",
+      "new_title": "Há um Amigo"
+    },
+    {
+      "original_number": 324,
+      "title": "Jesus, Teu Nome Satisfaz",
+      "notes": "",
+      "new_number": "104",
+      "new_title": "Jesus, Teu Nome Satisfaz"
+    },
+    {
+      "original_number": 325,
+      "title": "Junto Ao Bondoso Deus",
+      "notes": "",
+      "new_number": "237",
+      "new_title": "Junto ao Bondoso Deus"
+    },
+    {
+      "original_number": 326,
+      "title": "Manancial De Toda Bênção",
+      "notes": "",
+      "new_number": "214",
+      "new_title": "Manancial de Toda Bênção"
+    },
+    {
+      "original_number": 327,
+      "title": "Não Há Amigo Igual A Cristo",
+      "notes": "",
+      "new_number": "111",
+      "new_title": "Não Há Amigo Igual a Cristo"
+    },
+    {
+      "original_number": 328,
+      "title": "Meu Deus E Eu",
+      "notes": "",
+      "new_number": "417",
+      "new_title": "Meu Deus e Eu"
+    },
+    {
+      "original_number": 329,
+      "title": "Não Há Nome Mais Amável",
+      "notes": "",
+      "new_number": "101",
+      "new_title": "Não Há Nome Mais Amável"
+    },
+    {
+      "original_number": 330,
+      "title": "O Melhor Amigo",
+      "notes": "",
+      "new_number": "119",
+      "new_title": "O Melhor Amigo"
+    },
+    {
+      "original_number": 331,
+      "title": "Nome Precioso",
+      "notes": "",
+      "new_number": "103",
+      "new_title": "Nome Precioso"
+    },
+    {
+      "original_number": 332,
+      "title": "Tudo És Pra Mim",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 333,
+      "title": "Oh, Que Amigo Em Cristo Temos!",
+      "notes": "Alterado",
+      "new_number": "420",
+      "new_title": "Oh! Que Amigo em Cristo Temos!"
+    },
+    {
+      "original_number": 334,
+      "title": "Oh, Eu Amo A Cristo!",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 335,
+      "title": "Precioso É Jesus Para Mim",
+      "notes": "",
+      "new_number": "93",
+      "new_title": "Precioso é Jesus Para Mim"
+    },
+    {
+      "original_number": 336,
+      "title": "Salmo Dos Salmos",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 337,
+      "title": "Amor Nos Faz Contentes",
+      "notes": "",
+      "new_number": "238",
+      "new_title": "Amor nos Faz Contentes"
+    },
+    {
+      "original_number": 338,
+      "title": "Deus Não Se Cansa De Amar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 339,
+      "title": "Eu Sou Um Pobre Peregrino",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 340,
+      "title": "Sou Forasteiro Aqui",
+      "notes": "",
+      "new_number": "337",
+      "new_title": "Sou Forasteiro Aqui"
+    },
+    {
+      "original_number": 341,
+      "title": "Mágoas",
+      "notes": "",
+      "new_number": "368",
+      "new_title": "Mágoas"
+    },
+    {
+      "original_number": 342,
+      "title": "Eu Não Te Deixarei",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 343,
+      "title": "Meu Refúgio Está No Monte",
+      "notes": "",
+      "new_number": "352",
+      "new_title": "Meu Refúgio Está no Monte"
+    },
+    {
+      "original_number": 344,
+      "title": "Confiarei",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 345,
+      "title": "Novo Dia Chegará",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 346,
+      "title": "Como Agradecer",
+      "notes": "",
+      "new_number": "249",
+      "new_title": "Como Agradecer"
+    },
+    {
+      "original_number": 347,
+      "title": "Obrigado",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 348,
+      "title": "Graças",
+      "notes": "",
+      "new_number": "247",
+      "new_title": "Graças"
+    },
+    {
+      "original_number": 349,
+      "title": "Gratidão",
+      "notes": "",
+      "new_number": "245",
+      "new_title": "Gratidão"
+    },
+    {
+      "original_number": 350,
+      "title": "Senhor Jesus, Muito Obrigado",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 351,
+      "title": "Jesus, Muito Obrigado",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 352,
+      "title": "Luz Bendita, Luz Gloriosa",
+      "notes": "",
+      "new_number": "227",
+      "new_title": "Luz Bendita, Luz Gloriosa"
+    },
+    {
+      "original_number": 353,
+      "title": "É Prazer Servir A Cristo",
+      "notes": "",
+      "new_number": "220",
+      "new_title": "É Prazer Servir a Cristo"
+    },
+    {
+      "original_number": 354,
+      "title": "Paz",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 355,
+      "title": "Sempre Alegre",
+      "notes": "",
+      "new_number": "219",
+      "new_title": "Sempre Alegre"
+    },
+    {
+      "original_number": 356,
+      "title": "Tenho Um Hino Em Meu Coração",
+      "notes": "",
+      "new_number": "231",
+      "new_title": "Tenho um Hino em Meu Coração"
+    },
+    {
+      "original_number": 357,
+      "title": "Bendita Hora De Oração",
+      "notes": "",
+      "new_number": "419",
+      "new_title": "Bendita Hora de Oração"
+    },
+    {
+      "original_number": 358,
+      "title": "Só, Com Teu Deus",
+      "notes": "",
+      "new_number": "415",
+      "new_title": "Só, com Teu Deus"
+    },
+    {
+      "original_number": 359,
+      "title": "Lugar De Paz",
+      "notes": "",
+      "new_number": "413",
+      "new_title": "Lugar de Paz"
+    },
+    {
+      "original_number": 360,
+      "title": "Deus Ouve, Deus Responde",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 361,
+      "title": "Deus Nos Ouvirá",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 362,
+      "title": "O Melhor Lugar Do Mundo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 363,
+      "title": "O Jardim De Oração",
+      "notes": "",
+      "new_number": "418",
+      "new_title": "O Jardim de Oração"
+    },
+    {
+      "original_number": 364,
+      "title": "Que Tempo Já Faz?",
+      "notes": "",
+      "new_number": "425",
+      "new_title": "Que Tempo Já Faz?"
+    },
+    {
+      "original_number": 365,
+      "title": "Santa Hora De Oração",
+      "notes": "",
+      "new_number": "414",
+      "new_title": "Santa Hora de Oração"
+    },
+    {
+      "original_number": 366,
+      "title": "No Jardim",
+      "notes": "",
+      "new_number": "426",
+      "new_title": "No Jardim"
+    },
+    {
+      "original_number": 367,
+      "title": "Falar Com Deus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 368,
+      "title": "Ao Teu Lado Quero Andar",
+      "notes": "",
+      "new_number": "407",
+      "new_title": "Ao Teu Lado Quero Andar"
+    },
+    {
+      "original_number": 369,
+      "title": "Seguindo A Jesus",
+      "notes": "",
+      "new_number": "474",
+      "new_title": "Seguindo a Jesus"
+    },
+    {
+      "original_number": 370,
+      "title": "Bem Junto A Cristo",
+      "notes": "",
+      "new_number": "392",
+      "new_title": "Bem Junto a Cristo"
+    },
+    {
+      "original_number": 371,
+      "title": "Cada Vez Mais Puro",
+      "notes": "",
+      "new_number": "391",
+      "new_title": "Cada Vez Mais Puro"
+    },
+    {
+      "original_number": 372,
+      "title": "Abre, Senhor, Os Olhos Meus",
+      "notes": "",
+      "new_number": "401",
+      "new_title": "Abre, Senhor, os Olhos Meus"
+    },
+    {
+      "original_number": 373,
+      "title": "Deixa-me Contigo Andar",
+      "notes": "",
+      "new_number": "503",
+      "new_title": "Deixa-me Contigo Andar"
+    },
+    {
+      "original_number": 374,
+      "title": "Contigo, Ó Deus, Almejo Andar",
+      "notes": "Alterado",
+      "new_number": "404",
+      "new_title": "Ó Deus, Contigo Almejo Andar"
+    },
+    {
+      "original_number": 375,
+      "title": "Canção Da Vida",
+      "notes": "",
+      "new_number": "477",
+      "new_title": "Canção da Vida"
+    },
+    {
+      "original_number": 376,
+      "title": "Cristo, Dá-nos Tua Paz",
+      "notes": "",
+      "new_number": "496",
+      "new_title": "Cristo, Dá-nos Tua Paz"
+    },
+    {
+      "original_number": 377,
+      "title": "Mais De Cristo",
+      "notes": "",
+      "new_number": "403",
+      "new_title": "Mais de Cristo"
+    },
+    {
+      "original_number": 378,
+      "title": "Mais Perto Quero Estar",
+      "notes": "",
+      "new_number": "427",
+      "new_title": "Mais Perto Quero Estar"
+    },
+    {
+      "original_number": 379,
+      "title": "Fala À Minh’alma",
+      "notes": "",
+      "new_number": "402",
+      "new_title": "Fala à Minh’Alma"
+    },
+    {
+      "original_number": 380,
+      "title": "Sonda-me, Ó Deus",
+      "notes": "Alterado",
+      "new_number": "398",
+      "new_title": "Sonda-me, o Deus"
+    },
+    {
+      "original_number": 381,
+      "title": "Teu Divinal Amor",
+      "notes": "",
+      "new_number": "293",
+      "new_title": "Teu Divinal Amor"
+    },
+    {
+      "original_number": 382,
+      "title": "Minha Oração",
+      "notes": "",
+      "new_number": "302",
+      "new_title": "Minha Oração"
+    },
+    {
+      "original_number": 383,
+      "title": "Em Mim Vem Habitar",
+      "notes": "",
+      "new_number": "406",
+      "new_title": "Em Mim Vem Habitar"
+    },
+    {
+      "original_number": 384,
+      "title": "O Teu Querer",
+      "notes": "",
+      "new_number": "305",
+      "new_title": "O Teu Querer"
+    },
+    {
+      "original_number": 385,
+      "title": "Música Celeste",
+      "notes": "",
+      "new_number": "423",
+      "new_title": "Música Celeste"
+    },
+    {
+      "original_number": 386,
+      "title": "Abre Meus Olhos",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 387,
+      "title": "Jesus, Não Eu",
+      "notes": "Alterado",
+      "new_number": "294",
+      "new_title": "Não Eu, Mas Cristo"
+    },
+    {
+      "original_number": 388,
+      "title": "Sê Minha Vida",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 389,
+      "title": "Minha Cruz",
+      "notes": "",
+      "new_number": "297",
+      "new_title": "Minha Cruz"
+    },
+    {
+      "original_number": 390,
+      "title": "Pegadas",
+      "notes": "Alterado",
+      "new_number": "481",
+      "new_title": "Nos Passos de Jesus"
+    },
+    {
+      "original_number": 391,
+      "title": "Queremos Dar Louvor",
+      "notes": "",
+      "new_number": "497",
+      "new_title": "Queremos Dar Louvor"
+    },
+    {
+      "original_number": 392,
+      "title": "Ser Igual A Cristo",
+      "notes": "",
+      "new_number": "288",
+      "new_title": "Ser Igual a Cristo"
+    },
+    {
+      "original_number": 393,
+      "title": "Vem Comigo Habitar",
+      "notes": "Alterado",
+      "new_number": "397",
+      "new_title": "Comigo Habita"
+    },
+    {
+      "original_number": 394,
+      "title": "De Hoje Em Diante",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 395,
+      "title": "Vem Brilhar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 396,
+      "title": "Vem Brilhar Em Mim",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 397,
+      "title": "Eu Só Quero Estar Onde Estás",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 398,
+      "title": "Pai, Vive Em Mim",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 399,
+      "title": "O Céu É Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 400,
+      "title": "Mais Semelhante A Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 401,
+      "title": "Quero Ter Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 402,
+      "title": "Perto De Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 403,
+      "title": "Renova-me",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 404,
+      "title": "Sempre De Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 405,
+      "title": "Vem, Ó Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 406,
+      "title": "Pés Na Terra, Olhos No Céu",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 407,
+      "title": "O Poder Do Amor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 408,
+      "title": "Abençoa Este Lar",
+      "notes": "",
+      "new_number": "450",
+      "new_title": "Abençoa Este Lar"
+    },
+    {
+      "original_number": 409,
+      "title": "Amor No Lar",
+      "notes": "",
+      "new_number": "453",
+      "new_title": "Amor no Lar"
+    },
+    {
+      "original_number": 410,
+      "title": "Vem Entre Nós Morar",
+      "notes": "",
+      "new_number": "454",
+      "new_title": "Vem Entre Nós Morar"
+    },
+    {
+      "original_number": 411,
+      "title": "Bem De Manhã",
+      "notes": "",
+      "new_number": "22",
+      "new_title": "Bem de Manhã"
+    },
+    {
+      "original_number": 412,
+      "title": "Bem Cedinho Sempre Busco",
+      "notes": "Alterado",
+      "new_number": "23",
+      "new_title": "De Manhã Bem Cedo Busco"
+    },
+    {
+      "original_number": 413,
+      "title": "Vigiar E Orar",
+      "notes": "",
+      "new_number": "21",
+      "new_title": "Vigiar e Orar"
+    },
+    {
+      "original_number": 414,
+      "title": "Desponta O Sol",
+      "notes": "",
+      "new_number": "24",
+      "new_title": "Desponta o Sol"
+    },
+    {
+      "original_number": 415,
+      "title": "Luzes Da Aurora",
+      "notes": "",
+      "new_number": "26",
+      "new_title": "Luzes da Aurora"
+    },
+    {
+      "original_number": 416,
+      "title": "Surge A Alvorada",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 417,
+      "title": "Perto Do Lar",
+      "notes": "",
+      "new_number": "27",
+      "new_title": "Perto do Lar"
+    },
+    {
+      "original_number": 418,
+      "title": "Finda O Dia",
+      "notes": "Alterado",
+      "new_number": "28",
+      "new_title": "Morre o Dia"
+    },
+    {
+      "original_number": 419,
+      "title": "Prece Vespertina",
+      "notes": "",
+      "new_number": "276",
+      "new_title": "Prece Vespertina"
+    },
+    {
+      "original_number": 420,
+      "title": "Hora Feliz Do Pôr Do Sol",
+      "notes": "Alterado",
+      "new_number": "30",
+      "new_title": "Hora Feliz do Pôr-do-Sol"
+    },
+    {
+      "original_number": 421,
+      "title": "Oração Para Uma Criança",
+      "notes": "",
+      "new_number": "455",
+      "new_title": "Oração Para Uma Criança"
+    },
+    {
+      "original_number": 422,
+      "title": "Presente De Valor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 423,
+      "title": "Não Os Impeçais",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 424,
+      "title": "Canção Para Meu Bebê",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 425,
+      "title": "Ouço O Clamor Do Bom Pastor",
+      "notes": "",
+      "new_number": "467",
+      "new_title": "Ouço o Clamor do Bom Pastor"
+    },
+    {
+      "original_number": 426,
+      "title": "Cristo Ama As Criancinhas",
+      "notes": "",
+      "new_number": "459",
+      "new_title": "Cristo Ama as Criancinhas"
+    },
+    {
+      "original_number": 427,
+      "title": "Venham, Crianças",
+      "notes": "Alterado",
+      "new_number": "458",
+      "new_title": "Vinde, Meninos"
+    },
+    {
+      "original_number": 428,
+      "title": "Joias Preciosas",
+      "notes": "Alterado",
+      "new_number": "462",
+      "new_title": "Jóias Preciosas"
+    },
+    {
+      "original_number": 429,
+      "title": "Quando O Livro Aberto For",
+      "notes": "",
+      "new_number": "546",
+      "new_title": "Quando o Livro Aberto For"
+    },
+    {
+      "original_number": 430,
+      "title": "O Juízo",
+      "notes": "",
+      "new_number": "544",
+      "new_title": "O Juízo"
+    },
+    {
+      "original_number": 431,
+      "title": "Vem O Grande Dia",
+      "notes": "",
+      "new_number": "545",
+      "new_title": "Vem o Grande Dia"
+    },
+    {
+      "original_number": 432,
+      "title": "Sangue Precioso De Cristo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 433,
+      "title": "Sumo Sacerdote",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 434,
+      "title": "Santuário",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 435,
+      "title": "Acima Do Céu",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 436,
+      "title": "E Me Fareis Um Santuário",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 437,
+      "title": "Chegou A Hora",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 438,
+      "title": "Quando For Chamado",
+      "notes": "",
+      "new_number": "434",
+      "new_title": "Quando for Chamado"
+    },
+    {
+      "original_number": 439,
+      "title": "Quando Deus Fizer Chamada",
+      "notes": "",
+      "new_number": "127",
+      "new_title": "Quando Deus Fizer Chamada"
+    },
+    {
+      "original_number": 440,
+      "title": "Breve Jesus Voltará",
+      "notes": "",
+      "new_number": "134",
+      "new_title": "Breve Jesus Voltará"
+    },
+    {
+      "original_number": 441,
+      "title": "Vencendo Vem Jesus",
+      "notes": "",
+      "new_number": "152",
+      "new_title": "Vencendo Vem Jesus"
+    },
+    {
+      "original_number": 442,
+      "title": "Jesus Voltará",
+      "notes": "",
+      "new_number": "145",
+      "new_title": "Jesus Voltará"
+    },
+    {
+      "original_number": 443,
+      "title": "Cristo Virá Outra Vez",
+      "notes": "",
+      "new_number": "151",
+      "new_title": "Cristo Virá Outra Vez"
+    },
+    {
+      "original_number": 444,
+      "title": "Oh, Que Esperança!",
+      "notes": "Alterado",
+      "new_number": "469",
+      "new_title": "Oh! Que Esperança!"
+    },
+    {
+      "original_number": 445,
+      "title": "O Rei Já Perto Está",
+      "notes": "Alterado",
+      "new_number": "130",
+      "new_title": "O Rei Vindouro"
+    },
+    {
+      "original_number": 446,
+      "title": "Cristo Vem",
+      "notes": "",
+      "new_number": "148",
+      "new_title": "Cristo Vem"
+    },
+    {
+      "original_number": 447,
+      "title": "Vigiai, Cristãos",
+      "notes": "",
+      "new_number": "126",
+      "new_title": "Vigiai, Cristãos"
+    },
+    {
+      "original_number": 448,
+      "title": "Nós O Veremos",
+      "notes": "",
+      "new_number": "147",
+      "new_title": "Nós O Veremos"
+    },
+    {
+      "original_number": 449,
+      "title": "Quando O Rei Vier",
+      "notes": "",
+      "new_number": "132",
+      "new_title": "Quando o Rei Vier"
+    },
+    {
+      "original_number": 450,
+      "title": "Guarda, Vê Se Muito Falta",
+      "notes": "",
+      "new_number": "135",
+      "new_title": "Guarda, Vê se Muito Falta"
+    },
+    {
+      "original_number": 451,
+      "title": "Grande Alegria",
+      "notes": "",
+      "new_number": "489",
+      "new_title": "Grande Alegria"
+    },
+    {
+      "original_number": 452,
+      "title": "Cristo Não Tarda A Voltar",
+      "notes": "",
+      "new_number": "136",
+      "new_title": "Cristo Não Tarda a Voltar"
+    },
+    {
+      "original_number": 453,
+      "title": "Anunciai Pelas Montanhas",
+      "notes": "",
+      "new_number": "137",
+      "new_title": "Anunciai Pelas Montanhas"
+    },
+    {
+      "original_number": 454,
+      "title": "A Manhã Gloriosa",
+      "notes": "Alterado",
+      "new_number": "138",
+      "new_title": "A Manhã de Luz"
+    },
+    {
+      "original_number": 455,
+      "title": "Verei Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 456,
+      "title": "Bela Manhã",
+      "notes": "",
+      "new_number": "142",
+      "new_title": "Bela Manhã"
+    },
+    {
+      "original_number": 457,
+      "title": "Jesus Vem Logo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 458,
+      "title": "Não Tardará",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 459,
+      "title": "Cada Dia Mais Perto",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 460,
+      "title": "Decidi Olhar Pra O Amanhã",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 461,
+      "title": "Jesus Precisa Voltar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 462,
+      "title": "Será De Manhã?",
+      "notes": "",
+      "new_number": "143",
+      "new_title": "Será de Manhã?"
+    },
+    {
+      "original_number": 463,
+      "title": "Espero A Manhã Gloriosa",
+      "notes": "Alterado",
+      "new_number": "149",
+      "new_title": "Espero a Manhã Radiosa"
+    },
+    {
+      "original_number": 464,
+      "title": "Não Desistir",
+      "notes": "",
+      "new_number": "150",
+      "new_title": "Não Desistir"
+    },
+    {
+      "original_number": 465,
+      "title": "O Dia Não Sei",
+      "notes": "",
+      "new_number": "141",
+      "new_title": "O Dia Não Sei"
+    },
+    {
+      "original_number": 466,
+      "title": "Um Pouco Mais",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 467,
+      "title": "Até Quando?",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 468,
+      "title": "Quase No Lar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 469,
+      "title": "Enquanto Ele Não Vem",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 470,
+      "title": "Rocha Eterna",
+      "notes": "",
+      "new_number": "195",
+      "new_title": "Rocha Eterna"
+    },
+    {
+      "original_number": 471,
+      "title": "Porque Ele Vive",
+      "notes": "",
+      "new_number": "70",
+      "new_title": "Porque Ele Vive"
+    },
+    {
+      "original_number": 472,
+      "title": "Ó Alegrai-vos, Filhos De Sião",
+      "notes": "Alterado",
+      "new_number": "86",
+      "new_title": "Ó, Alegrai-vos, Filhos de Sião"
+    },
+    {
+      "original_number": 473,
+      "title": "Morte E Ressurreição",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 474,
+      "title": "Eu Espero",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 475,
+      "title": "Se Não Houver Amanhã",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 476,
+      "title": "Hei De Ver",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 477,
+      "title": "Face A Face",
+      "notes": "",
+      "new_number": "444",
+      "new_title": "Face a Face"
+    },
+    {
+      "original_number": 478,
+      "title": "Sim, Glória Haverá No Final",
+      "notes": "",
+      "new_number": "431",
+      "new_title": "Sim, Glória Haverá no Final"
+    },
+    {
+      "original_number": 479,
+      "title": "Herdeiro Do Reino",
+      "notes": "",
+      "new_number": "300",
+      "new_title": "Herdeiro do Reino"
+    },
+    {
+      "original_number": 480,
+      "title": "O Eterno Lar",
+      "notes": "",
+      "new_number": "430",
+      "new_title": "O Eterno Lar"
+    },
+    {
+      "original_number": 481,
+      "title": "No Celeste Lar Glorioso",
+      "notes": "",
+      "new_number": "561",
+      "new_title": "No Celeste Lar Glorioso"
+    },
+    {
+      "original_number": 482,
+      "title": "Junto Ao Rio Jordão",
+      "notes": "",
+      "new_number": "441",
+      "new_title": "Junto ao Rio Jordão"
+    },
+    {
+      "original_number": 483,
+      "title": "Vamos Ver Jesus Ali",
+      "notes": "",
+      "new_number": "554",
+      "new_title": "Vamos Ver Jesus Ali"
+    },
+    {
+      "original_number": 484,
+      "title": "Além Do Céu Azul",
+      "notes": "",
+      "new_number": "491",
+      "new_title": "Além do Céu Azul"
+    },
+    {
+      "original_number": 485,
+      "title": "Estrelas Terei",
+      "notes": "",
+      "new_number": "435",
+      "new_title": "Estrelas Terei"
+    },
+    {
+      "original_number": 486,
+      "title": "Até Então",
+      "notes": "",
+      "new_number": "555",
+      "new_title": "Até Então"
+    },
+    {
+      "original_number": 487,
+      "title": "Primeiro Quero Ver Meu Salvador",
+      "notes": "",
+      "new_number": "439",
+      "new_title": "Primeiro Quero Ver Meu Salvador"
+    },
+    {
+      "original_number": 488,
+      "title": "Eu Vou Para O Céu",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 489,
+      "title": "Cristo Foi Preparar Um Lugar",
+      "notes": "Alterado",
+      "new_number": "552",
+      "new_title": "Cristo Foi Preparar-nos Lugar"
+    },
+    {
+      "original_number": 490,
+      "title": "Tão Grato Me É Lembrar",
+      "notes": "",
+      "new_number": "442",
+      "new_title": "Tão Grato me é Lembrar"
+    },
+    {
+      "original_number": 491,
+      "title": "Há Um Rio Cristalino",
+      "notes": "Alterado",
+      "new_number": "553",
+      "new_title": "Junto ao Rio Cristalino"
+    },
+    {
+      "original_number": 492,
+      "title": "Lar Feliz",
+      "notes": "",
+      "new_number": "572",
+      "new_title": "Lar Feliz"
+    },
+    {
+      "original_number": 493,
+      "title": "Almejo O Lar",
+      "notes": "",
+      "new_number": "336",
+      "new_title": "Almejo o Lar"
+    },
+    {
+      "original_number": 494,
+      "title": "Doce Lar",
+      "notes": "",
+      "new_number": "566",
+      "new_title": "Doce Lar"
+    },
+    {
+      "original_number": 495,
+      "title": "Glória Perene",
+      "notes": "",
+      "new_number": "428",
+      "new_title": "Glória Perene"
+    },
+    {
+      "original_number": 496,
+      "title": "Além Do Rio",
+      "notes": "",
+      "new_number": "570",
+      "new_title": "Além do Rio"
+    },
+    {
+      "original_number": 497,
+      "title": "Inda É Longe Canaã?",
+      "notes": "",
+      "new_number": "339",
+      "new_title": "Inda é Longe Canaã?"
+    },
+    {
+      "original_number": 498,
+      "title": "Lindo País",
+      "notes": "",
+      "new_number": "571",
+      "new_title": "Lindo País"
+    },
+    {
+      "original_number": 499,
+      "title": "Mansão Sobre O Monte",
+      "notes": "",
+      "new_number": "501",
+      "new_title": "Mansão Sobre o Monte"
+    },
+    {
+      "original_number": 500,
+      "title": "Oh, Nunca Separar!",
+      "notes": "Alterado",
+      "new_number": "565",
+      "new_title": "Oh! Nunca Separar!"
+    },
+    {
+      "original_number": 501,
+      "title": "Para Além Das Montanhas",
+      "notes": "",
+      "new_number": "440",
+      "new_title": "Para Além das Montanhas"
+    },
+    {
+      "original_number": 502,
+      "title": "Saudade",
+      "notes": "",
+      "new_number": "340",
+      "new_title": "Saudade"
+    },
+    {
+      "original_number": 503,
+      "title": "Vale Do Éden Formoso",
+      "notes": "Alterado",
+      "new_number": "569",
+      "new_title": "Oh, Vale do Éden, Formoso!"
+    },
+    {
+      "original_number": 504,
+      "title": "Mais Perto Desse Lar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 505,
+      "title": "Muito Além Do Sol",
+      "notes": "",
+      "new_number": "551",
+      "new_title": "Muito Além do Sol"
+    },
+    {
+      "original_number": 506,
+      "title": "Eu Não Preciso Mais Sonhar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 507,
+      "title": "Jamais Se Diz Adeus Ali",
+      "notes": "",
+      "new_number": "564",
+      "new_title": "Jamais se Diz Adeus Ali"
+    },
+    {
+      "original_number": 508,
+      "title": "Cristo Fez Tudo Muito Bom",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 509,
+      "title": "Criação",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 510,
+      "title": "Aquarela Do Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 511,
+      "title": "Eu Sou Uma Obra De Arte",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 512,
+      "title": "Cada Dia",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 513,
+      "title": "Ver Jesus Em Você",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 514,
+      "title": "Fruto Da Criação",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 515,
+      "title": "Sabe Quantas Estrelinhas?",
+      "notes": "Alterado",
+      "new_number": "456",
+      "new_title": "Sabes Quantas Estrelinhas?"
+    },
+    {
+      "original_number": 516,
+      "title": "Grande Artista",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 517,
+      "title": "Meu Deus É Tão Grande",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 518,
+      "title": "O Dia Em Que Deus Criou O Mundo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 519,
+      "title": "Amigo Do Coração",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 520,
+      "title": "Cristo É O Número Um",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 521,
+      "title": "O Espírito Santo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 522,
+      "title": "Eu Quero Esse Poder",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 523,
+      "title": "Sim, Cristo Me Ama",
+      "notes": "",
+      "new_number": "457",
+      "new_title": "Sim, Cristo me Ama"
+    },
+    {
+      "original_number": 524,
+      "title": "Jesus Me Quer Bem",
+      "notes": "",
+      "new_number": "460",
+      "new_title": "Jesus Me Quer Bem"
+    },
+    {
+      "original_number": 525,
+      "title": "Deus Sempre Me Ama",
+      "notes": "",
+      "new_number": "461",
+      "new_title": "Deus Sempre me Ama"
+    },
+    {
+      "original_number": 526,
+      "title": "Quem Orou Três Vezes?",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 527,
+      "title": "Onde Quer Que Eu Vá",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 528,
+      "title": "Quando Estou Com Medo",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 529,
+      "title": "Se Deus É Por Nós",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 530,
+      "title": "Lâmpada Para Os Meus Pés",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 531,
+      "title": "Bíblia",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 532,
+      "title": "Louvem A Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 533,
+      "title": "Louvai-o",
+      "notes": "",
+      "new_number": "466",
+      "new_title": "Louvai-O"
+    },
+    {
+      "original_number": 534,
+      "title": "Eu Digo Não",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 535,
+      "title": "Santa Lei De Deus",
+      "notes": "Alterado",
+      "new_number": "468",
+      "new_title": "Preceitos Para os Pequenos"
+    },
+    {
+      "original_number": 536,
+      "title": "São Dez Os Mandamentos",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 537,
+      "title": "Sábado, O Dia Mais Feliz",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 538,
+      "title": "Dia Especial",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 539,
+      "title": "Deus Mandou O Sol Brilhar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 540,
+      "title": "Quero Bem Alegre Obedecer",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 541,
+      "title": "Cria Em Mim, Ó Deus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 542,
+      "title": "Vem, Ó Jesus",
+      "notes": "Alterado",
+      "new_number": "595",
+      "new_title": "Ao Meu Coração"
+    },
+    {
+      "original_number": 543,
+      "title": "É Bom Ter Jesus No Coração",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 544,
+      "title": "Entrega Teu Caminho Ao Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 545,
+      "title": "Sou Feliz",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 546,
+      "title": "Quero Servir A Jesus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 547,
+      "title": "Eu Sei Por Que Nasci",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 548,
+      "title": "O Milagre Da Vida",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 549,
+      "title": "Eu Sou Importante",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 550,
+      "title": "Deus Tem Um Plano Pra Mim",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 551,
+      "title": "Minha Pequenina Luz",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 552,
+      "title": "Meus Talentos Vou Usar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 553,
+      "title": "Minha Vida É Uma Viagem",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 554,
+      "title": "Sou Aventureiro",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 555,
+      "title": "Um Lugar Feliz É O Céu",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 556,
+      "title": "Lá No Céu",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 557,
+      "title": "No Céu",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 558,
+      "title": "O Senhor Está Em Seu Templo",
+      "notes": "",
+      "new_number": "573",
+      "new_title": "O Senhor Está em Seu Templo"
+    },
+    {
+      "original_number": 559,
+      "title": "Sinto A Presença Do Senhor",
+      "notes": "",
+      "new_number": "578",
+      "new_title": "Sinto a Presença do Senhor"
+    },
+    {
+      "original_number": 560,
+      "title": "A Glória Da Tua Presença",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 561,
+      "title": "Santo Somente É O Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 562,
+      "title": "Santo És, Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 563,
+      "title": "Sua Glória",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 564,
+      "title": "Vamos Adorar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 565,
+      "title": "Adoração",
+      "notes": "",
+      "new_number": "581",
+      "new_title": "Adoração"
+    },
+    {
+      "original_number": 566,
+      "title": "Oh, Adorai",
+      "notes": "Alterado",
+      "new_number": "585",
+      "new_title": "Oh! Adorai"
+    },
+    {
+      "original_number": 567,
+      "title": "Introito",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 568,
+      "title": "Invocação",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 569,
+      "title": "Nosso Maravilhoso Deus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 570,
+      "title": "Maravilhoso Deus",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 571,
+      "title": "Tu És Digno",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 572,
+      "title": "Ofertório",
+      "notes": "",
+      "new_number": "591",
+      "new_title": "Ofertório"
+    },
+    {
+      "original_number": 573,
+      "title": "Venho Te Adorar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 574,
+      "title": "Teu É Nosso Coração",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 575,
+      "title": "Entrego A Ti",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 576,
+      "title": "Humildade E Gratidão",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 577,
+      "title": "Quero Me Entregar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 578,
+      "title": "Humilde Oração",
+      "notes": "",
+      "new_number": "597",
+      "new_title": "Humilde Oração"
+    },
+    {
+      "original_number": 579,
+      "title": "Ao Orarmos, Senhor",
+      "notes": "",
+      "new_number": "593",
+      "new_title": "Ao Orarmos, Senhor"
+    },
+    {
+      "original_number": 580,
+      "title": "Oração De Súplica",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 581,
+      "title": "Ouve-nos, Senhor",
+      "notes": "",
+      "new_number": "594",
+      "new_title": "Ouve-nos, Senhor"
+    },
+    {
+      "original_number": 582,
+      "title": "Pai, Venho A Ti",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 583,
+      "title": "Entregamos Em Tuas Mãos",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 584,
+      "title": "Prece De Gratidão",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 585,
+      "title": "Vem, Espírito Santo",
+      "notes": "",
+      "new_number": "598",
+      "new_title": "Vem, Espírito Santo"
+    },
+    {
+      "original_number": 586,
+      "title": "Venham Todos",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 587,
+      "title": "Chegou A Hora De Adorar Ao Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 588,
+      "title": "Deixai Vir A Mim Os Pequeninos",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 589,
+      "title": "Fala, Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 590,
+      "title": "Queremos Te Pedir, Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 591,
+      "title": "Estejas Conosco",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 592,
+      "title": "Graça, Amor E Comunhão",
+      "notes": "",
+      "new_number": "602",
+      "new_title": "Graça, Amor e Comunhão"
+    },
+    {
+      "original_number": 593,
+      "title": "Amigo, Não Saia Sem Cristo",
+      "notes": "",
+      "new_number": "606",
+      "new_title": "Amigo, Não Saia Sem Cristo"
+    },
+    {
+      "original_number": 594,
+      "title": "Bênção Final",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 595,
+      "title": "A Bênção",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 596,
+      "title": "Vem, Senhor",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 597,
+      "title": "Santo Lugar",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 598,
+      "title": "Que Deus Te Abençoe!",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 599,
+      "title": "Que O Senhor Nos Abençoe!",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    },
+    {
+      "original_number": 600,
+      "title": "Em Paz Eu Vou",
+      "notes": "Novo",
+      "new_number": "–",
+      "new_title": "–"
+    }
+   ]
