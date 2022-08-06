@@ -36,3 +36,11 @@
 .changed {
   background-color: var(--changed-color);
 }
+
+footer {
+  background-color: #1976d2;
+  margin-top: 3em;
+  padding: 1em;
+  text-align: center;
+  color: white;
+}

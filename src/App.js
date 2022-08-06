@@ -79,7 +79,7 @@ function App(props) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          Novo Hinário Adventista
+            Correspondência de Hinos
           </Typography>
         </Toolbar>
       </AppBar>
@@ -113,7 +113,9 @@ function App(props) {
       {props.which === 'old' ? "Hinos retirados" : "Hinos introduzidos"}
       </Typography>
       <Typography variant="body1" gutterBottom style={{marginTop: 15}}>
-        A informação aqui disponibilizada vem do site musicaeadoracao.com.br, tendo sido originalmente criada por <strong>Lucas Pereira de Freitas</strong>.
+        A informação aqui disponibilizada vem do site musicaeadoracao.com.br, tendo sido originalmente criada por <strong>Lucas Pereira de Freitas</strong>. <br/>
+        Navegue no menu entre os hinos que foram retirados (correspondência entre o hinário de 1996 e o de 2022) ou os que foram introduzidos (correspondência entre o hinário de 2022 e o de 1996).<br/>
+        Para mais serviços e ferramentas de apoio à sua igreja local visite <a href="https://adv7.pt">adv7.pt</a>.
       </Typography>
       <div className='colors'>
         <div className='colorExplanation'>
@@ -144,6 +146,9 @@ function App(props) {
         </Table>
             </TableContainer>
       </Container>
+      <footer>
+        Desenvolvimento: Joel Calado. Informação: musicaeadoracao.com.br
+      </footer>
     </div>
     
   );
