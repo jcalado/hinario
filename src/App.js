@@ -14,7 +14,10 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Typography from '@mui/material/Typography';
 import EventBusyIcon from '@mui/icons-material/EventBusy';
 import EventAvailableIcon from '@mui/icons-material/EventAvailable';
+import SearchIcon from '@mui/icons-material/Search';
 import Container from "@mui/material/Container";
+import InputAdornment from '@mui/material/InputAdornment';
+import TextField from '@mui/material/TextField';
 
 import oldToNew from "./data/1996_to_2022.json";
 import newToOld from "./data/2022_to_1996.json";
@@ -28,10 +31,20 @@ var source = null;
 
 function App(props) {
   const [drawerOpen, setDrawerOpen] = React.useState(false);
+  const [search, setSearch] = React.useState("");
 
   function toggleDrawer() {
     setDrawerOpen(drawerOpen => !drawerOpen);
   }
+
+  function handleSearch(event){
+    setSearch(event.target.value)
+  }
+
+
+    const filteredSource = search.length > 0 ?
+    source.filter(item =>  item.title.toLowerCase().includes(search.toLowerCase()) || item.original_number.toString().includes(search)) : source
+
 
   if (props.which === 'old') {
     source = oldToNew
@@ -39,7 +52,7 @@ function App(props) {
     source = newToOld
   }
 
-  const rows = source.map((hymn) => {
+  const rows = filteredSource.map((hymn) => {
     let color = 'transparent';
     if (hymn.notes === 'Removido') {
       color = "#ffcccc";
@@ -131,6 +144,20 @@ function App(props) {
           <span>Alterado</span>
         </div>
       </div>
+      <TextField
+        className="search"
+        label="Procurar"
+        onChange={handleSearch}
+        autoComplete="new-password"
+        InputProps={{
+          startAdornment: (
+            <InputAdornment position="start">
+              <SearchIcon />
+            </InputAdornment>
+          ),
+        }}
+        variant="standard"
+      />
       <Box sx={{ m: 4 }} />
         <TableContainer component={Paper}>
         <Table aria-label="simple table" stickyHeader>
