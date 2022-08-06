@@ -58,7 +58,6 @@ function App(props) {
       >
         <TableCell>{hymn.original_number}</TableCell>
         <TableCell>{hymn.title}</TableCell>
-        <TableCell>{hymn.notes}</TableCell>
         <TableCell>{hymn.new_number}</TableCell>
         <TableCell>{hymn.new_title}</TableCell>
       </TableRow>
@@ -88,21 +87,21 @@ function App(props) {
       <Box>
         <List>
           <ListItem disablePadding>
-            <ListItemButton component={Link} to="/hinario/antigo">
+            <ListItemButton component={Link} to="/hinario/antigo" onClick={toggleDrawer}>
               <ListItemIcon>
                 <EventBusyIcon></EventBusyIcon>
               </ListItemIcon>
               <ListItemText>
-              Antigo para novo
+              Hinos retirados
               </ListItemText>
             </ListItemButton>
           </ListItem>
           <ListItem disablePadding>
-            <ListItemButton component={Link} to="/hinario/novo">
+            <ListItemButton component={Link} to="/hinario/novo" onClick={toggleDrawer}>
               <ListItemIcon>
                 <EventAvailableIcon></EventAvailableIcon>
               </ListItemIcon>
-              Novo para antigo
+              Hinos introduzidos
             </ListItemButton>
           </ListItem>
         </List>
@@ -111,11 +110,25 @@ function App(props) {
       <Container>
       <Box sx={{ m: 4 }} />
       <Typography variant="h4" component="span" gutterBottom align='center'>
-      {props.which === 'old' ? "Hinário 1996 ➡️ Hinário 2022" : "Hinário 2022 ➡️ Hinário 1996"}
+      {props.which === 'old' ? "Hinos retirados" : "Hinos introduzidos"}
       </Typography>
-      <Typography variant="body1" gutterBottom>
-        A informação aqui disponibilizada vem do site musicaeadoracao.com.br, tendo sido originalmente criada por Lucas Pereira de Freitas.
+      <Typography variant="body1" gutterBottom style={{marginTop: 15}}>
+        A informação aqui disponibilizada vem do site musicaeadoracao.com.br, tendo sido originalmente criada por <strong>Lucas Pereira de Freitas</strong>.
       </Typography>
+      <div className='colors'>
+        <div className='colorExplanation'>
+          <div className='removed'></div>
+          <span>Removido</span>
+        </div>
+        <div className='colorExplanation'>
+          <div className='new'></div>
+          <span>Novo</span>
+        </div>
+        <div className='colorExplanation'>
+          <div className='changed'></div>
+          <span>Alterado</span>
+        </div>
+      </div>
       <Box sx={{ m: 4 }} />
         <TableContainer component={Paper}>
         <Table aria-label="simple table" stickyHeader>
@@ -123,7 +136,6 @@ function App(props) {
             <TableRow>
               <TableCell>Hino</TableCell>
               <TableCell>Título</TableCell>
-              <TableCell>Observações</TableCell>
               <TableCell>Novo número</TableCell>
               <TableCell>Título</TableCell>
             </TableRow>
