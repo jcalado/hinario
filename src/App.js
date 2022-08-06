@@ -14,10 +14,12 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Typography from '@mui/material/Typography';
 import EventBusyIcon from '@mui/icons-material/EventBusy';
 import EventAvailableIcon from '@mui/icons-material/EventAvailable';
+import Brightness7 from '@mui/icons-material/Brightness7';
 import SearchIcon from '@mui/icons-material/Search';
 import Container from "@mui/material/Container";
 import InputAdornment from '@mui/material/InputAdornment';
 import TextField from '@mui/material/TextField';
+import { createTheme, ThemeProvider, CssBaseline  } from '@mui/material';
 
 import oldToNew from "./data/1996_to_2022.json";
 import newToOld from "./data/2022_to_1996.json";
@@ -29,12 +31,59 @@ import { Box } from '@mui/system';
 
 var source = null;
 
+const light = createTheme({
+  palette: {
+    primary: {
+      main: '#fbd53b',
+      light: '#fbd53b',
+      dark: '#c4a400'
+    },
+    success: {
+      main: '#ccffcc',
+    },
+    warning: {
+      main: '#fff0cc',
+    },
+    error: {
+      main: '#ffcccc',
+    },
+    mode: 'light',
+  }
+})
+const dark = createTheme({
+  palette: {
+    primary: {
+      main: '#fbd53b',
+      light: '#fbd53b',
+      dark: '#c4a400',
+    },
+    success: {
+      main: '#003300',
+    },
+    warning: {
+      main: '#332400',
+    },
+    error: {
+      main: '#330000',
+    },
+    text: {
+      primary: 'white',
+    },
+    mode: 'dark',
+  }
+})
+
 function App(props) {
   const [drawerOpen, setDrawerOpen] = React.useState(false);
   const [search, setSearch] = React.useState("");
+  const [theme, setTheme] = React.useState(light);
 
   function toggleDrawer() {
     setDrawerOpen(drawerOpen => !drawerOpen);
+  }
+
+  function toggleDarkMode() {
+    theme === light ? setTheme(dark): setTheme(light)
   }
 
   function handleSearch(event){
@@ -55,13 +104,13 @@ function App(props) {
   const rows = filteredSource.map((hymn) => {
     let color = 'transparent';
     if (hymn.notes === 'Removido') {
-      color = "#ffcccc";
+      color = theme.palette.error.main;
     }
     if (hymn.notes === 'Novo') {
-      color = "#ccffcc";
+      color = theme.palette.success.main;
     }
     if (hymn.notes === 'Alterado') {
-      color = "#fff0cc";
+      color = theme.palette.warning.main;
     }
 
     return (
@@ -78,6 +127,8 @@ function App(props) {
   });
 
   return (
+    <ThemeProvider theme={theme}>
+          <CssBaseline />
     <div className='app'>
       <AppBar position="static">
         <Toolbar>
@@ -94,6 +145,16 @@ function App(props) {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Correspondência de Hinos
           </Typography>
+          <IconButton
+            size="large"
+            edge="start"
+            color="inherit"
+            aria-label="menu"
+            sx={{ mr: 2 }}
+            onClick={toggleDarkMode}
+          >
+            <Brightness7 />
+          </IconButton>
         </Toolbar>
       </AppBar>
       <Drawer open={drawerOpen} onClose={toggleDrawer}>
@@ -132,15 +193,15 @@ function App(props) {
       </Typography>
       <div className='colors'>
         <div className='colorExplanation'>
-          <div className='removed'></div>
+          <div style={{backgroundColor: theme.palette.error.main }}></div>
           <span>Removido</span>
         </div>
         <div className='colorExplanation'>
-          <div className='new'></div>
+          <div style={{backgroundColor: theme.palette.success.main }}></div>
           <span>Novo</span>
         </div>
         <div className='colorExplanation'>
-          <div className='changed'></div>
+          <div style={{backgroundColor: theme.palette.warning.main }}></div>
           <span>Alterado</span>
         </div>
       </div>
@@ -177,7 +238,7 @@ function App(props) {
         Desenvolvimento: Joel Calado. Informação: musicaeadoracao.com.br
       </footer>
     </div>
-    
+    </ThemeProvider>
   );
 }
 

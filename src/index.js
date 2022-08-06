@@ -4,23 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { ThemeProvider, createTheme  } from '@mui/material';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-const hinario = createTheme({
-  palette: {
-    primary: {
-      main: '#fbd53b',
-      light: '#fbd53b',
-      dark: '#c4a400'
-    }
-  }
-})
 
 root.render(
   <React.StrictMode>
-    <ThemeProvider theme={hinario}>
     <BrowserRouter>
       <Routes>
         <Route path="/hinario" element={<App which={"old"} />} />
@@ -28,7 +17,6 @@ root.render(
         <Route path="/hinario/novo" element={<App which={"new"}/>} />
       </Routes>
     </BrowserRouter>
-    </ThemeProvider>
   </React.StrictMode>
 );
 
