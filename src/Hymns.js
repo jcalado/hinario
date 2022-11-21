@@ -16,19 +16,21 @@ import EventBusyIcon from '@mui/icons-material/EventBusy';
 import LyricsIcon from '@mui/icons-material/Lyrics';
 import EventAvailableIcon from '@mui/icons-material/EventAvailable';
 import Brightness7 from '@mui/icons-material/Brightness7';
-import SearchIcon from '@mui/icons-material/Search';
 import Container from "@mui/material/Container";
 import InputAdornment from '@mui/material/InputAdornment';
 import TextField from '@mui/material/TextField';
+import SearchIcon from '@mui/icons-material/Search';
 import { createTheme, ThemeProvider, CssBaseline  } from '@mui/material';
 
-import oldToNew from "./data/1996_to_2022.json";
-import newToOld from "./data/2022_to_1996.json";
+import hymns from "./songs.json";
+import doctrines from "./doctrines.json";
 
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 import { Drawer, List, ListItem, ListItemButton, ListItemIcon, ListItemText } from "@mui/material";
 import { Box } from '@mui/system';
+
+const _ = require('lodash');
 
 var source = null;
 
@@ -74,10 +76,11 @@ const dark = createTheme({
   }
 })
 
-function App(props) {
+function Hymns(props) {
   const [drawerOpen, setDrawerOpen] = React.useState(false);
   const [search, setSearch] = React.useState("");
   const [theme, setTheme] = React.useState(light);
+  let navigate = useNavigate();
 
   function toggleDrawer() {
     setDrawerOpen(drawerOpen => !drawerOpen);
@@ -91,16 +94,10 @@ function App(props) {
     setSearch(event.target.value)
   }
 
+  source = hymns
+  const filteredSource = search.length > 0 ?
+  source.filter(item =>  item.hymn.title.toLowerCase().includes(search.toLowerCase()) || item.hymn.number.toString().includes(search)) : source
 
-    const filteredSource = search.length > 0 ?
-    source.filter(item =>  item.title.toLowerCase().includes(search.toLowerCase()) || item.original_number.toString().includes(search)) : source
-
-
-  if (props.which === 'old') {
-    source = oldToNew
-  } else {
-    source = newToOld
-  }
 
   const rows = filteredSource.map((hymn) => {
     let color = 'transparent';
@@ -114,15 +111,19 @@ function App(props) {
       color = theme.palette.warning.main;
     }
 
+    let category = _.find(doctrines.doctrines, { belief: [{id: hymn?.hymn?.subCategory}] })
+    let subCategory = _.find(category.belief, {id: hymn?.hymn?.subCategory})
+
     return (
       <TableRow
-        key={hymn.original_number}
+        key={hymn.hymn.number}
         sx={{ bgcolor: color }}
+        onClick={() => { navigate(`/hinario/${hymn.hymn.number}`)}}
       >
-        <TableCell>{hymn.original_number}</TableCell>
-        <TableCell>{hymn.title}</TableCell>
-        <TableCell>{hymn.new_number}</TableCell>
-        <TableCell>{hymn.new_title}</TableCell>
+        <TableCell><Link to={`/hinario/${hymn.hymn.number}`} style={{textDecoration: 'none'}}>{hymn.hymn.number}</Link></TableCell>
+        <TableCell>{hymn.hymn.title}</TableCell>
+        <TableCell>{category?.name}</TableCell>
+        <TableCell>{subCategory?.name}</TableCell>
       </TableRow>
     );
   });
@@ -144,7 +145,7 @@ function App(props) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            HASD
+          HASD
           </Typography>
           <IconButton
             size="large"
@@ -195,27 +196,9 @@ function App(props) {
       <Container>
       <Box sx={{ m: 4 }} />
       <Typography variant="h4" component="span" gutterBottom align='center'>
-      {props.which === 'old' ? "Hinos retirados" : "Hinos introduzidos"}
+      Hinário
       </Typography>
-      <Typography variant="body1" gutterBottom style={{marginTop: 15}}>
-        A informação aqui disponibilizada vem do site musicaeadoracao.com.br, tendo sido originalmente criada por <strong>Lucas Pereira de Freitas</strong>. <br/>
-        Navegue no menu entre os hinos que foram retirados (correspondência entre o hinário de 1996 e o de 2022) ou os que foram introduzidos (correspondência entre o hinário de 2022 e o de 1996).<br/>
-        Para mais serviços e ferramentas de apoio à sua igreja local visite <a href="https://adv7.pt">adv7.pt</a>.
-      </Typography>
-      <div className='colors'>
-        <div className='colorExplanation'>
-          <div style={{backgroundColor: theme.palette.error.main }}></div>
-          <span>Removido</span>
-        </div>
-        <div className='colorExplanation'>
-          <div style={{backgroundColor: theme.palette.success.main }}></div>
-          <span>Novo</span>
-        </div>
-        <div className='colorExplanation'>
-          <div style={{backgroundColor: theme.palette.warning.main }}></div>
-          <span>Alterado</span>
-        </div>
-      </div>
+      <Box sx={{ m: 4 }} />
       <TextField
         className="search"
         label="Procurar"
@@ -231,14 +214,14 @@ function App(props) {
         variant="standard"
       />
       <Box sx={{ m: 4 }} />
-        <TableContainer component={Paper}>
-        <Table aria-label="simple table" stickyHeader>
+      <TableContainer component={Paper}>
+        <Table aria-label="simple table" stickyHeader size='small'>
           <TableHead>
             <TableRow>
               <TableCell>Hino</TableCell>
               <TableCell>Título</TableCell>
-              <TableCell>Novo número</TableCell>
-              <TableCell>Título</TableCell>
+              <TableCell>Categoria</TableCell>
+              <TableCell>Subcategoria</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>{rows}</TableBody>
@@ -255,4 +238,4 @@ function App(props) {
 
 
 
-export default App;
+export default Hymns;

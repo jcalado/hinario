@@ -44,3 +44,16 @@ footer {
   text-align: center;
   color: white;
 }
+
+.estrofe {
+  margin: 1em 0;
+}
+
+.estrofe p {
+  margin:0;
+}
+
+.estrofe.coro {
+  font-style: italic;
+  margin: 1.5em 0;
+}

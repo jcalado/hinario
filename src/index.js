@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Hymns from './Hymns';
+import Lyrics from './Lyrics';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
@@ -12,7 +14,10 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/hinario" element={<App which={"old"} />} />
+        <Route path="/hinario">
+          <Route path='' element={<Hymns />} />
+          <Route path=":number" element={<Lyrics />} />
+        </Route>
         <Route path="/hinario/antigo" element={<App which={"old"} />} />
         <Route path="/hinario/novo" element={<App which={"new"}/>} />
       </Routes>
