@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hinario/static/css/main.cda9e2eb.css",
-    "main.js": "/hinario/static/js/main.4b130f1d.js",
+    "main.css": "/hinario/static/css/main.31488f92.css",
+    "main.js": "/hinario/static/js/main.7f0f1a31.js",
     "static/js/787.d1e46f60.chunk.js": "/hinario/static/js/787.d1e46f60.chunk.js",
     "index.html": "/hinario/index.html",
-    "main.cda9e2eb.css.map": "/hinario/static/css/main.cda9e2eb.css.map",
-    "main.4b130f1d.js.map": "/hinario/static/js/main.4b130f1d.js.map",
+    "main.31488f92.css.map": "/hinario/static/css/main.31488f92.css.map",
+    "main.7f0f1a31.js.map": "/hinario/static/js/main.7f0f1a31.js.map",
     "787.d1e46f60.chunk.js.map": "/hinario/static/js/787.d1e46f60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cda9e2eb.css",
-    "static/js/main.4b130f1d.js"
+    "static/css/main.31488f92.css",
+    "static/js/main.7f0f1a31.js"
   ]
 }
