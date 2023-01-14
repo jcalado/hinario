@@ -23,7 +23,7 @@ import { Link } from "react-router-dom";
 
 import { Drawer, List, ListItem, ListItemButton, ListItemIcon, ListItemText } from "@mui/material";
 import { Box } from '@mui/system';
-import { FormatAlignCenter, FormatAlignJustify, TextDecrease, TextIncrease } from '@mui/icons-material';
+import { FormatAlignCenter, FormatAlignJustify, TextDecrease, TextIncrease, YouTube } from '@mui/icons-material';
 
 
 const light = createTheme({
@@ -103,7 +103,12 @@ function Lyrics(props) {
     setState(previousState => ({ ...previousState, textAlign: 'left' }))
   }
 
+  const handleOpenYoutube = () => {
+    window.open(`${hymn.hymn.youtubeURL}`, '_blank', 'noreferrer');
+  }
+
   const actions = [
+    { icon: <YouTube />, name: 'Abrir youtube', onclick: handleOpenYoutube },
     { icon: <TextIncrease />, name: 'Aumentar letra', onclick: handleIncreaseFontSize },
     { icon: <TextDecrease />, name: 'Diminuir letra', onclick: handleDecreaseFontSize },
     { icon: <FormatAlignCenter />, name: 'Centrar', onclick: handleCenterText },
@@ -127,7 +132,7 @@ function Lyrics(props) {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              HASD
+            Hinário Adventista
             </Typography>
             <IconButton
               size="large"
@@ -177,12 +182,12 @@ function Lyrics(props) {
         </Drawer>
         <Container>
           <SpeedDial
-            ariaLabel="SpeedDial basic example"
+            ariaLabel="Menu"
             sx={{ position: 'fixed', bottom: 20, right: 20 }}
             icon={<SpeedDialIcon />}
           >
             {actions.map((action) => (
-              <SpeedDialAction
+              <SpeedDialAction 
                 key={action.name}
                 icon={action.icon}
                 tooltipTitle={action.name}
@@ -190,6 +195,7 @@ function Lyrics(props) {
               />
             ))}
           </SpeedDial>
+
           <Box sx={{ m: 4 }} />
           <Typography variant="h4" component="h4" gutterBottom align='center' style={{ textAlign: state.textAlign }}>
             {hymn.hymn.number} - {hymn.hymn.title}

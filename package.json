@@ -1,6 +1,6 @@
 {
-  "name": "Novo Hinário",
-  "version": "0.7.1",
+  "name": "Hinário Adventista",
+  "version": "0.8",
   "homepage": "https://jcalado.github.io/hinario",
   "private": true,
   "dependencies": {
